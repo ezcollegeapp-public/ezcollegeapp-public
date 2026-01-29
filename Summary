@@ -1,0 +1,7 @@
+EZCommon is a web-based application platform designed to help users manage college or application-related materials end to end. It includes secure authentication (email/password and Google sign-in), followed by a personalized dashboard with a clear left-side navigation.
+
+Users can manage their profile information, upload and organize documents across multiple categories (Education, Activities, Testing), and view all uploaded files in a centralized All Files section with preview support. The platform also provides document processing tools, including AI-powered parsing and form auto-fill to extract information from uploaded documents.
+
+Additional features include an Organization Invitations page for collaboration, and a comprehensive Settings area. Settings allow users to control account details, notifications, storage usage, language and time zone preferences, and AI assistant features such as auto-fill, suggestion intensity, and smart document review. An About section provides versioning, update history, and support information.
+
+Overall, EZCommon presents a clean, structured workflow for document-driven applications, enhanced by AI assistance and centralized management.
