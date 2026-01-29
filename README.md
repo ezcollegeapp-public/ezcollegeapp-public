@@ -34,7 +34,7 @@ The repository includes a comprehensive research paper documenting the methodolo
 - Documentation and supplementary materials
 - License information
 
-## � Getting Started
+## 🚀 Getting Started
 
 ### Installation
 
