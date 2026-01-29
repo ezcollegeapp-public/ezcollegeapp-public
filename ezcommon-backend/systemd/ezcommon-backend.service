@@ -1,0 +1,15 @@
+[Unit]
+Description=EZCommon Backend (uvicorn)
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/ec2-user/full-web-app-1123/ezcommon-backend
+Environment="PATH=/home/ec2-user/full-web-app-1123/ezcommon-backend/venv/bin"
+EnvironmentFile=/home/ec2-user/full-web-app-1123/ezcommon-backend/.env
+ExecStart=/home/ec2-user/full-web-app-1123/ezcommon-backend/venv/bin/uvicorn auth_api:app --host 0.0.0.0 --port 8000
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

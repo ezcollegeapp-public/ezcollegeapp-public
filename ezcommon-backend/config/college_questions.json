@@ -1,0 +1,4469 @@
+{
+  "48": {
+    "https://apply.commonapp.org/mycolleges/48/2907/14055": [
+      {
+        "id": "1192515",
+        "label": "Preferred start term*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1194661",
+        "label": "Do you qualify for a Caltech-specific fee waiver program? If so, please select the fee waiver from the list below:*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1278621",
+        "label": "Are you a U.S. citizen, U.S. permanent resident, US asylee, or US refugee?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1351069",
+        "label": "Caltech is interested in disaggregating the ethnic identity(ies) of our students to better serve them.My ancestral country(ies) of origin:",
+        "options": [],
+        "required": false,
+        "type": "multi_select_dropdown"
+      },
+      {
+        "id": "1394777",
+        "label": "If applicable, what name would you like to use for official print/digital communications?",
+        "options": [
+          "First Name",
+          "Preferred/Chosen Name"
+        ],
+        "required": false,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1398097",
+        "label": "Is your current secondary school located in the United States or a US territory?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1397788",
+        "label": "Provide the phonetic spelling of your first name or preferred/chosen name.",
+        "options": [],
+        "required": false,
+        "type": "short_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/48/2907/14056": [
+      {
+        "id": "1381709",
+        "label": "Select whether you authorize Parent 1 and Parent 2 to receive communications from the university, such as prospective student programming, surveys, parent activities, and general campus information.*",
+        "options": [],
+        "required": true,
+        "type": "multi_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/48/2907/14057": [
+      {
+        "id": "1381697",
+        "label": "Are any siblings also applying for undergraduate admission to Caltech this year?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/48/2907/14058": [
+      {
+        "id": "1193190",
+        "label": "Indicate your proposed area of interest at Caltech or select 'Undecided'. If your specific interest is not captured on this list, select 'Other'.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1193783",
+        "label": "If you have one, indicate your second area of interest at Caltech, or select 'Undecided'. If your specific interest is not captured on this list, select 'Other'.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1404892",
+        "label": "Select a prompt from the drop-down list below.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1408105",
+        "label": "Select a second prompt from the drop-down list below.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1404864",
+        "label": "At Caltech, we investigate some of the most challenging, fundamental problems in science, technology, engineering, and mathematics. We are interested in learning more about your engagement with STEM. Select one of the following two STEM experience prompts to respond to: *",
+        "options": [
+          "Tell us how you initially found your interest and passion for science or for a particular STEM topic, and how you have pursued or developed your interest or passion over the last few years.",
+          "Tell us about a meaningful STEM-related experience from the last few years and share how and why it inspired your curiosity."
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1381524",
+        "label": "Why did you choose your proposed area of interest? If you selected ‘other’, what topics are you interested in pursuing?*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1397245",
+        "label": "Your STEM Present: CuriosityRegardless of your STEM interest listed above, take this opportunity to nerd out and talk to us about whatever STEM rabbit hole you have found yourself falling into. Be as specific or broad as you would like.*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1381683",
+        "label": "Please enter your STEM experience essay here.*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1394176",
+        "label": "The creativity, inventiveness, and innovation of Caltech's students, faculty, and researchers have won Nobel Prizes and put rovers on Mars. But Techers also imagine smaller-scale innovations every day, from new ways to design solar cells to how to 3D-print dorm decor to experimenting in the kitchen. How have you been a creator, inventor, or innovator in your own life?*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1404893",
+        "label": "Enter your essay here.*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1408106",
+        "label": "Enter your second essay here.*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/48/2907/14083": [
+      {
+        "id": "1394675",
+        "label": "Have you done coursework at a university, online institution, or program that is not included on your high school transcript? *",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1400702",
+        "label": "Were you able to take the SAT or ACT?*",
+        "options": [
+          "Yes, I was able to take an exam.",
+          "No, I was unable to take an exam due to accessibility or technical issues."
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1384228",
+        "label": "Have you had any extenuating circumstances (such as limited course selection, inconsistent grades, or disruptions), that have affected your coursework, but that are not described elsewhere in your application? If so, tell us about them here.",
+        "options": [],
+        "required": false,
+        "type": "long_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/48/2907/23453": [],
+    "https://apply.commonapp.org/mycolleges/48/2907/23693": [
+      {
+        "id": "1397875",
+        "label": "Do you plan to submit research to Caltech? *",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1398129",
+        "label": "Do you plan to submit a STEM or non-STEM portfolio to Caltech? *",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1397874",
+        "label": "Do you have any STEM honors or awards to report? *",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/48/about": [],
+    "https://apply.commonapp.org/mycolleges/48/recassign": [],
+    "https://apply.commonapp.org/mycolleges/48/submitapp": []
+  },
+  "50": {
+    "https://apply.commonapp.org/mycolleges/50/3364/10369": [
+      {
+        "id": "1318285",
+        "label": "Most students choose their intended major or area of study based on a passion or inspiration that’s developed over time – what passion or inspiration led you to choose this area of study?(300 word maximum)*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1318286",
+        "label": "Many students pursue college for a specific degree, career opportunity or personal goal. Whichever it may be, learning will be critical to achieve your ultimate goal. As you think ahead to the process of learning during your college years, how will you define a successful college experience?(300 word maximum)*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1318287",
+        "label": "Consider your application as a whole. What do you personally want to emphasize about your application for the admission committee’s consideration? Highlight something that’s important to you or something you haven’t had a chance to share. Tell us, don’t show us (no websites please).(300 word maximum)*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/50/3893/12199": [
+      {
+        "id": "1152643",
+        "label": "Preferred start term*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1196074",
+        "label": "Carnegie Mellon isn’t able to provide any need- or merit-based financial assistance to international students. Financial need is considered when making admission decisions for international candidates.If you’re an international student (not a U.S. citizen or U.S. permanent resident) and need financial assistance in order to attend, it may affect your admission decision. Would you require financial assistance in order to attend?",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1332296",
+        "label": "Do you identify as Transgender?",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1277638",
+        "label": "Carnegie Mellon University is committed to making our campus an inclusive and welcoming environment for all students. If you’d like to share additional information related to your gender identity that will inform our support, we invite you to share with us below.",
+        "options": [],
+        "required": false,
+        "type": "multi_select_dropdown"
+      },
+      {
+        "id": "1152645",
+        "label": "Do you intend to pursue need-based financial aid?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/50/3893/12200": [
+      {
+        "id": "1350076",
+        "label": "Have you taken or do you plan to take an American Mathematics Competition (AMC) test, American Invitational Mathematics Exam (AIME) or American Online Invitational Mathematics Exam (AOIME)? Please note that these tests are neither required nor recommended.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1408354",
+        "label": "Carnegie Mellon will consider an optional Schoolhouse.world portfolio as part of its holistic undergraduate admissions review process. This allows applicants to demonstrate not only subject mastery in areas like math and science, but also their commitment to peer learning and service. Additionally, students who earn certifications through Schoolhouse.world are eligible to take placement exams in foundational STEM topics at CMU, such as biology, chemistry, physics, calculus and computer science. Those who pass have the option to take more advanced courses.If you have a Schoolhouse.world portfolio, please submit your portfolio link here:",
+        "options": [],
+        "required": false,
+        "type": "short_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/50/3893/12201": [
+      {
+        "id": "1242983",
+        "label": "If you wish to be contacted via mobile phone, please provide your phone number. Contact methods may include phone calls generated from an automated telephone dialing system or text messaging.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1152661",
+        "label": "Have you previously applied to Carnegie Mellon University?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/50/3893/12202": [
+      {
+        "id": "1152663",
+        "label": "Are any siblings also applying for undergraduate admission to Carnegie Mellon University this year?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1152685",
+        "label": "Have any relatives ever attended Carnegie Mellon University?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1152763",
+        "label": "Have any relatives ever worked for Carnegie Mellon University?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1368243",
+        "label": "Based on the parent/guardian information you listed in the Family section of the Common App, do you have any parents or guardians who live in a known address different than your own?If this parent/guardian’s address is unknown, please select ‘No’.*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1152807",
+        "label": "If you indicated that one of your parents/legal guardians/step-parents is employed at a Carnegie Mellon University campus, please indicate which campus.",
+        "options": [],
+        "required": false,
+        "type": "short_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/50/about": [],
+    "https://apply.commonapp.org/mycolleges/50/recassign": [],
+    "https://apply.commonapp.org/mycolleges/50/submitapp": [],
+    "https://apply.commonapp.org/mycolleges/50/submitws": []
+  },
+  "71": {
+    "https://apply.commonapp.org/mycolleges/71/2416/23459": [
+      {
+        "id": "1350586",
+        "label": "If you indicated you served or are currently serving in the U.S. military, is your military service limited to enrollment at a U.S. Military Service Academy or ROTC participation?",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1196617",
+        "label": "Cornell University hosts Reserve Officer Training Corps (ROTC) units from all four branches of the military (Army, Marine Corps, Navy, and Air Force). Are you interested in participating in any of these programs (competing for a scholarship or just attending some classes)?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": false,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/71/2416/23460": [
+      {
+        "id": "1394387",
+        "label": "Does your family receive public assistance, such as housing, food, or child care subsidies?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1394390",
+        "label": "Are you a ward of the state, do you identify as homeless or unhoused, and/or do you live in federally subsidized public housing or a foster home or shelter?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": false,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/71/2416/24250": [
+      {
+        "id": "1407780",
+        "label": "We are asking some of these questions again because further context for each applicant is important to us. Please answer the following questions consistently with the order and names in which you listed your parents, step-parents or guardians in the Family section of the Common App (e.g., Parent 1 in the Family section = Parent 1 below). How many parents, step-parents, and/or guardians do you have?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/71/2416/24288": [
+      {
+        "id": "1408747",
+        "label": "Have you ever been found responsible for a disciplinary violation related to academic misconduct or behavioral misconduct that resulted in a disciplinary action of probation, suspension, or dismissal at any educational institution you have attended from the 9th grade (or the international equivalent) forward? *",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1408749",
+        "label": "Have you ever been adjudicated guilty or convicted of a misdemeanor or felony? Note that you are not required to answer \"yes\" to this question, or provide an explanation, if the criminal adjudication or conviction has been expunged, sealed, annulled, pardoned, destroyed, erased, impounded, or otherwise required by law or ordered by a court to be kept confidential. *",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/71/2416/6717": [
+      {
+        "id": "1196230",
+        "label": "Student status*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1029712",
+        "label": "Preferred start term*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1029713",
+        "label": "Preferred admission plan*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1394429",
+        "label": "Are you enrolled in a federally recognized American Indian tribe or Alaska Native entity?",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1379002",
+        "label": "Are you eligible for an application fee waiver?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1029724",
+        "label": "Have you previously applied to Cornell University?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1393967",
+        "label": "Do you intend to apply for need-based financial aid from Cornell University?(For financial aid information, please visit: finaid.cornell.edu)*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/71/2416/6718": [
+      {
+        "id": "1029720",
+        "label": "College or school to which you are applying:*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1378292",
+        "label": "Is English the main language of instruction at your high school?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/71/2416/6719": [
+      {
+        "id": "1278402",
+        "label": "If you wish to be contacted via mobile phone, please provide your phone number. Contact methods may include phone calls generated from an automated telephone dialing system or text messaging.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1399702",
+        "label": "Do you consent for Cornell to contact all parent(s) and/or guardian(s) listed in the Family Section of your Common Application about your application and admission status?If you'd like to consent for some but not all parents/guardians to receive communications about your application and admission status, please contact Cornell's Undergraduate Admissions Office at applicant@cornell.edu after you've submitted your application.*",
+        "options": [
+          "Yes, please contact all parents or guardians about my application and admission status.",
+          "No, please do not contact parents or guardians about my application and admission status."
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/71/2416/6720": [
+      {
+        "id": "1029726",
+        "label": "Are any siblings also applying for undergraduate admission to Cornell University this year?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1029749",
+        "label": "Have any of your parents or grandparents ever attended Cornell University?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1029826",
+        "label": "Do you have relatives currently working as faculty or staff members at Cornell University?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/71/3466/10700": [
+      {
+        "id": "1394238",
+        "label": "Cornell University QuestionWe all contribute to, and are influenced by, the communities that are meaningful to us. Share how you’ve been shaped by one of the communities you belong to.Define community in the way that is most meaningful to you. This community example can be drawn from your family, school, workplace, activities or interests, or any other group you belong to.*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/71/about": [],
+    "https://apply.commonapp.org/mycolleges/71/recassign": [],
+    "https://apply.commonapp.org/mycolleges/71/submitapp": [],
+    "https://apply.commonapp.org/mycolleges/71/submitws": []
+  },
+  "74": {
+    "https://apply.commonapp.org/mycolleges/74/2259/6128": [
+      {
+        "id": "1393402",
+        "label": "Required of all applicants, please respond to one of the following prompts in 250 words or fewer:*",
+        "options": [
+          "There is a Quaker saying: Let your life speak. Describe the environment in which you were raised and the impact it has had on the person you are today.",
+          "“Be yourself,” Oscar Wilde advised. “Everyone else is taken.” Introduce yourself."
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1200340",
+        "label": "Required of all applicants, please respond to one of the following prompts in 250 words or fewer:*",
+        "options": [
+          "What excites you?",
+          "Labor leader and civil rights activist Dolores Huerta recommended a life of purpose. “We must use our lives to make the world a better place to live, not just to acquire things,” she said. “That is what we are put on the earth for.” In what ways do you hope to make—or are you already making—an impact? Why? How?",
+          "In an Instagram post, best-selling British author Matt Haig cheered the impact of reading. “A good novel is the best invention humans have ever created for imagining other lives,” he wrote. How have you experienced such insight from reading? What did you read and how did it alter the way you understand yourself and others?",
+          "The social and family interactions of wild chimpanzees have been the focus of Dame Jane Goodall’s research for decades. Her understanding of animal behavior prompted the English primatologist to see a lesson for human communities as well: “Change happens by listening and then starting a dialogue with the people who are doing something you don’t believe is right.” Channel Dame Goodall: Tell us about a moment when you engaged in a difficult conversation or encountered someone with an opinion or perspective that was different from your own. How did you find common ground?",
+          "Celebrate your nerdy side.",
+          "It’s not easy being green…” was the frequent refrain of Kermit the Frog. How has difference been a part of your life, and how have you embraced it as part of your identity, outlook or sense of purpose?",
+          "The Mindy Kaling Theater Lab will be an exciting new addition to Dartmouth’s Hopkins Center for the Arts. “It’s a place where you can fail,” the actor/producer and Dartmouth alumna said when her gift was announced. “You can try things out, fail, and then revamp and rework things… A thing can be bad on its journey to becoming good.” Share a story of failure, trial runs, revamping, reworking, or journeying from bad to good."
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1286936",
+        "label": "Required of all applicants, please respond in 100 words or fewer:As you seek admission to Dartmouth’s Class of 2030, what aspects of the college’s academic program, community, and/or campus environment attract your interest? How is Dartmouth a good fit for you?*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1382093",
+        "label": "Please respond in 250 words or fewer:*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1200341",
+        "label": "Please respond in 250 words or fewer.*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/74/3439/13386": [
+      {
+        "id": "1176834",
+        "label": "Preferred start term*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1239590",
+        "label": "Gender*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1360495",
+        "label": "If you wish to indicate your religious preference, you are welcome to do so.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1176836",
+        "label": "Though you may not qualify for a Common App fee waiver, Dartmouth does not want the non-refundable $85 application fee to discourage you from applying. You qualify for a Dartmouth fee waiver if: you are a QuestBridge finalist, you have served in the U.S. Armed Forces, you were awarded a fee waiver through one of Dartmouth’s College Access Programs, or you received a postcard offering you an application fee waiver.",
+        "options": [
+          "Yes, I qualify for a Dartmouth Fee Waiver",
+          "No, I do not qualify for a Dartmouth Fee Waiver"
+        ],
+        "required": false,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1176837",
+        "label": "Do you intend to apply for need-based financial aid? *",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1366730",
+        "label": "Since entering high school (or the equivalent year to 9th grade in the US system), have you ever been found responsible for a disciplinary violation at school, whether related to academic misconduct or behavioral misconduct, that resulted in probation, suspension, removal, dismissal, or expulsion from your school? Your answer to this question will not limit your opportunity to be admitted. Your answer and, if “yes,” any additional information you wish to provide about your experience with your school’s disciplinary process will be considered as one factor among many in our review of your candidacy.*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1336483",
+        "label": "Have you ever been convicted of, pled guilty to, or pled no contest to a misdemeanor or felony, or are there criminal charges currently pending against you? Notes: (1) You are not required to answer \"yes\" to this question, or provide an explanation, if the criminal adjudication or conviction has been expunged, sealed, annulled, pardoned, destroyed, erased, impounded, or otherwise required by law or ordered by a court to be kept confidential. (2) Your answer to this question will not limit your opportunity to be admitted. Your answer and, if “yes,” any additional information you wish to provide about your experience with law enforcement and the legal system will be considered as one factor among many in our review of your candidacy.*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/74/3439/13387": [
+      {
+        "id": "1176843",
+        "label": "Please indicate your primary area of academic interest at Dartmouth College*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1176844",
+        "label": "If you wish to identify a second academic interest, please do so here.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1176845",
+        "label": "If you wish to identify a third academic interest, please do so here.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1381160",
+        "label": "Is English the primary language of instruction in your school?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1381158",
+        "label": "Are you attending school outside the United States?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/74/3439/13388": [
+      {
+        "id": "1176846",
+        "label": "What activities at Dartmouth College interest you? List in order of preference.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1238674",
+        "label": "If you wish to submit your résumé, you may upload it here.",
+        "options": [],
+        "required": false,
+        "type": "upload"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/74/3439/13389": [
+      {
+        "id": "1176854",
+        "label": "How have you learned about Dartmouth College? List in order of influence.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1176852",
+        "label": "Have you previously applied to Dartmouth College?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/74/3439/13390": [
+      {
+        "id": "1366864",
+        "label": "Parent 1 Birth Country*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1366865",
+        "label": "Parent 1 Occupation*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1366866",
+        "label": "Parent 1 Employment Status*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1366870",
+        "label": "Parent 2 Birth Country*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1366875",
+        "label": "Parent 2 Occupation*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1366877",
+        "label": "Parent 2 Employment Status*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1382749",
+        "label": "How many siblings do you have?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1382823",
+        "label": "Are any siblings (e.g.: twin, triplet, etc.) also applying for undergraduate admission to Dartmouth College this year?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1176887",
+        "label": "Do you have any relatives who have attended or are attending Dartmouth College?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1302008",
+        "label": "Do any relatives work for Dartmouth College?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1367198",
+        "label": "Parent 1 address is*",
+        "options": [
+          "the same as my home address",
+          "a different address",
+          "unknown/not applicable"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1367192",
+        "label": "Parent 2 address is*",
+        "options": [
+          "the same as my home address",
+          "a different address",
+          "unknown/not applicable"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/74/about": [],
+    "https://apply.commonapp.org/mycolleges/74/recassign": [],
+    "https://apply.commonapp.org/mycolleges/74/submitapp": [],
+    "https://apply.commonapp.org/mycolleges/74/submitws": []
+  },
+  "85": {
+    "https://apply.commonapp.org/mycolleges/85/2346/20249": [
+      {
+        "id": "1353999",
+        "label": "School disciplineHave you ever been found responsible for a disciplinary violation at any educational institution you have attended from Grade 9 (or the international equivalent) forward, whether related to academic misconduct or behavioral misconduct, that resulted in a disciplinary action? These actions could include, but are not limited to: probation, suspension, removal, dismissal, or expulsion from the institution.*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1329268",
+        "label": "ConvictionHave you ever been adjudicated guilty or convicted of a misdemeanor or felony? (Choose Yes or No)[Note that you are not required to answer “yes” to this question, or provide an explanation, if the criminal adjudication or conviction has been expunged, sealed, annulled, pardoned, destroyed, erased, impounded, or otherwise required by law or ordered by a court to be kept confidential.]*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/85/2346/23704": [
+      {
+        "id": "1023806",
+        "label": "Arts supplement (optional)If you have exceptional talent in dance, music, photography, film/video/digital, or theater, you may submit optional arts supplement(s) to be evaluated by a Duke University faculty member in that program or department. Typically, such submissions should demonstrate exceptional talent beyond standard high school level accomplishment. Arts supplement applicants have often received significant awards and honors at a state, national, or international level. For more information about what we look for, you may reach out to the departments directly, or review our website: https://admissions.duke.edu/apply/.Unfortunately, we are unable to accept visual art supplements this year (including photographs of art work).Although you are not required to major or minor within your field of submission, we expect that you will submit supplements only for programs or departments in which you plan to be significantly engaged while at Duke.Do you intend to submit a portfolio in one or more of the arts?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1284459",
+        "label": "Alumni Interviews (optional)Alumni interviews are an optional part of the Duke application process. The one-on-one conversations, held virtually, allow you to share information about yourself and learn more about Duke. Be aware that interviewer availability is limited. If you express interest in an interview and an alumni interviewer does not contact you, do not be concerned. The Admissions Office prioritizes interviews for students where we feel additional information might be helpful; the absence of an alumni interview in your application file will not affect your chance of admission. Please indicate your preference regarding an alumni interview.*",
+        "options": [
+          "Yes, please contact me if an interview is available.",
+          "No, I do not want to participate in an alumni interview."
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1398688",
+        "label": "Duke Kunshan UniversityDuke Kunshan University (DKU) is a joint venture university between Duke University (Duke) and Wuhan University located in Kunshan, China. Duke provides ongoing support for the undergraduate curriculum and will confer a Duke University degree to all students who graduate from the DKU undergraduate program. To help you determine if this unique international student experience and community is right for you, click here: https://youtu.be/VrqQJZhwD1o Duke and DKU have reached an agreement whereby, if you authorize it below, Duke will provide your application directly to DKU, which will be considered as a new and separate application to DKU. Please read the terms and conditions about the option to share your Duke application with DKU. Would you like Duke University to share your application with Duke Kunshan University?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/85/2346/23705": [
+      {
+        "id": "1091021",
+        "label": "The following question is required for all first-year applicants to Duke University during the 2025-26 application cycle: Why DukeWhat is your impression of Duke as a university and community, and why do you believe it is a good match for your goals, values, and interests? If there is something specific that attracts you to our academic offerings in Trinity College of Arts and Sciences or the Pratt School of Engineering, or to our co-curricular opportunities, feel free to include that too. (250 word limit)*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/85/2346/23706": [
+      {
+        "id": "1408133",
+        "label": "Would you like to submit an optional short essay? *",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1381148",
+        "label": "Please select 0 - 1 optional essay topics.",
+        "options": [],
+        "required": false,
+        "type": "multi_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/85/2346/23707": [
+      {
+        "id": "1236679",
+        "label": "Have you applied, or do you plan to apply, for an ROTC scholarship by contacting the appropriate armed forces division(s)?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1399148",
+        "label": "Are you currently serving or have you previously served in the U.S. Armed Forces?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1354001",
+        "label": "Did you ever receive an Other Than Honorable Discharge, Bad Conduct Discharge, or Dishonorable Discharge?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/85/2346/6430": [
+      {
+        "id": "1023803",
+        "label": "Preferred start term*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1023802",
+        "label": "Undergraduate program*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1287087",
+        "label": "Duke is committed to making the application process accessible and offers application fee waivers for the following participants:*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1348906",
+        "label": "Duke University is test-optional for the 2025-26 admissions cycle.Students who apply without SAT or ACT scores this year will not be at a disadvantage in our consideration of their applications. Our decisions are based on a student’s comprehensive application materials, with or without test scores. We will continue to consider SAT and ACT scores as part of the application of students who choose to submit them and will accept self-reported scores for purposes of assessing an application. Scores sent from testing agencies will be required from those students only if they enroll at Duke.Students taking the ACT are encouraged to include the science section, especially if interested in STEM fields. Duke will continue to superscore the ACT across test dates and incorporate the science score into the composite when available.Test score consideration:*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1405714",
+        "label": "If you answered \"U.S. Resident\" on the Geography and Nationality section of your Common Application Profile, please indicate additional details below.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1023805",
+        "label": "Do you intend to pursue need-based financial aid?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/85/2346/6431": [
+      {
+        "id": "1023812",
+        "label": "What academic major, minor, certificate or area of study at Duke University interests you?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1023813",
+        "label": "What academic major, minor, certificate or area of study at Duke University interests you?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/85/2346/6432": [
+      {
+        "id": "1023816",
+        "label": "How have you learned about Duke University? List in order of influence.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1267594",
+        "label": "If you wish to be contacted via mobile phone, please provide your phone number. Contact methods may include phone calls or text messaging.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1023814",
+        "label": "Have you previously applied for undergraduate admission to Duke University? Current QuestBridge applicants: Choose \"No\"*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/85/2346/6433": [
+      {
+        "id": "1380161",
+        "label": "Parent 1 Relationship*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1380324",
+        "label": "Parent 2 Relationship*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1380174",
+        "label": "Have they ever attended Duke University? (undergraduate, graduate, professional school, or medical staff residency)*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1380431",
+        "label": "Do you have a step-parent to list?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1380753",
+        "label": "Do you live with a guardian?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1354337",
+        "label": "Based on the parent/guardian information you listed in the Family section of the Common App, do you have any parents or guardians who live in a known address different than your own?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1380938",
+        "label": "Do you have a grandparent who attended Duke? *",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1380040",
+        "label": "Do you have any siblings to list?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/85/2346/6434": [
+      {
+        "id": "1023970",
+        "label": "Duke Community Standard: Duke University is a community dedicated to scholarship, leadership, and service and to the principles of honesty, fairness, respect, and accountability. Citizens of this community commit to reflect upon and uphold these principles in all academic and non-academic endeavors, and to protect and promote a culture of integrity. To uphold the Duke Community Standard:• I will not lie, cheat, or steal in my academic endeavors;• I will conduct myself honorably in all my endeavors; and• I will act if the Standard is compromised.Please indicate \"yes\" that you have read and will uphold the Duke Community Standard.*",
+        "options": [
+          "Yes"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1023971",
+        "label": "Conditions of Application: By applying to Duke, you agree to be bound by our Community Standard and you are consenting to the conditions listed below. The only valid notification of an admissions decision is the formal letter of admission from the Dean of Undergraduate Admissions.Duke University may discontinue your application, withdraw an offer of admission, or revoke your enrollment at any time if you do not meet these conditions. The integrity of your applicationYou agree that all the information in your application is true and accurate, including your citizenship or U.S. visa status. You agree that your application reflects your own work, and that all application materials submitted by you were not created by another person or by a generative artificial intelligence process.Applying Early Decision at Duke or elsewhere If you apply to Duke under our Early Decision program you agree to fully abide by the terms of our Early Decision agreement. You agree to abide by the conditions of application of other universities you are applying to. You agree to immediately withdraw your application to Duke if you are accepted at another college or university under their binding Early Decision program. Personal behavior and integrityYou agree not to act in a manner that calls into question your honesty, integrity, or character. You agree to mention in your application any significant disciplinary or other sanction by any educational institution or other program in which you have participated or to which you have been admitted. 48-hour deadlineYou agree that if any of the information in your application changes between now and your enrollment and arrival at the beginning of your first term at Duke, you will notify the Admissions Office within 48 hours by submitting the appropriate information in the “Update Application” section in the Duke Application portal. Authorization and Personal data collectionYou authorize discussion of your candidacy by the Admissions Office with appropriate faculty and staff of all educational institutions you have attended as well as any other institutions where you have worked, served, lived or volunteered in the last four years; You understand and agree that by submitting an application for admission, the personal data included with your application will be collected by Duke, or on its behalf, during the admissions process; and that this data will be used for the primary purposes of considering your application for admission to Duke, providing you with information regarding engagement opportunities, evaluating your eligibility for financial aid, responding to records requests and, if you are admitted, facilitating your education. You agree that your data may be shared internally with Duke departments, or with third parties, to help achieve these goals and to comply with legal obligations. You have reviewed the Duke University Privacy Policy and permit Duke to collect and use your personal data in accordance with that policy. Please indicate 'yes' that you consent to all of these conditions.*",
+        "options": [
+          "Yes"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/85/about": [],
+    "https://apply.commonapp.org/mycolleges/85/recassign": [],
+    "https://apply.commonapp.org/mycolleges/85/submitapp": []
+  },
+  "116": {
+    "https://apply.commonapp.org/mycolleges/116/3151/21950": [
+      {
+        "id": "1370960",
+        "label": "Is parent 1 living?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1370961",
+        "label": "Is parent 2 living?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1364278",
+        "label": "How many siblings did you list in the Family section of the Common App?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1404215",
+        "label": "Did either of your parents receive a bachelor's degree, its equivalent, or higher, regardless of the country in which it was received?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1364233",
+        "label": "Based on the parent/guardian information you listed in the Family section of the Common App, do you have any parents or guardians who live in a known address different than your own?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/116/3151/22730": [
+      {
+        "id": "1380390",
+        "label": "Are you currently serving or have you previously served in the U.S. Armed Forces?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/116/3151/23336": [
+      {
+        "id": "1392002",
+        "label": "Harvard has long recognized the importance of enrolling a student body with a diversity of perspectives and experiences. How will the life experiences that shaped who you are today enable you to contribute to Harvard?*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1397914",
+        "label": "Describe a time when you strongly disagreed with someone about an idea or issue. How did you communicate or engage with this person? What did you learn from this experience?*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1392077",
+        "label": "Briefly describe any of your extracurricular activities, employment experience, travel, or family responsibilities that have shaped who you are.*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1392079",
+        "label": "How do you hope to use your Harvard education in the future?*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1392080",
+        "label": "Top 3 things your roommates might like to know about you.*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/116/3151/9538": [
+      {
+        "id": "1088532",
+        "label": "Preferred start term *",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1088534",
+        "label": "Preferred residence during your first year*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1228149",
+        "label": "Do you intend to submit supplementary media materials (video, audio, images) to be considered as part of the admission process to Harvard? Portfolio materials can illustrate special talents in academics or in one or more of the arts. Please note: supplementary materials are neither expected nor required. These materials should be included only if you think they would significantly add to your application. If yes, you will be directed to upload these materials through Slideroom. If you intend to submit documents only (i.e., PDFs, word documents), these should be uploaded through the applicant portal, in which case you can select \"no\" for this question. Please see the website for more information.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1397915",
+        "label": "Did you or do you plan to take the SAT or ACT?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1088535",
+        "label": "Do you intend to apply for need-based financial aid?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/116/3151/9539": [
+      {
+        "id": "1391988",
+        "label": "While we do not admit applicants to particular programs, we invite you to indicate which fields of study you would be interested in exploring further at Harvard. Please list in order of interest. Field of Study 1*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1391993",
+        "label": "Field of Study 2",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1391995",
+        "label": "Field of Study 3",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1088538",
+        "label": "On a scale of 1 (absolutely certain) to 5 (very likely to change), how definite do you consider your academic plans to be?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1088539",
+        "label": "On a scale of 1 (absolutely certain) to 5 (very likely to change), how definite do you consider your vocational plans to be?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1088540",
+        "label": "On a scale of 1 (absolutely certain) to 5 (very likely to change), how definite are your extracurricular and/or athletic interests?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1088537",
+        "label": "Are you applying for a program with the New England Conservatory?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1283404",
+        "label": "Are you applying for a program with Berklee College of Music?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1406896",
+        "label": "If you listed any honors or awards in the Honors section of the Common Application, please provide a link to the honor/award if available.",
+        "options": [],
+        "required": false,
+        "type": "short_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/116/3151/9540": [
+      {
+        "id": "1088541",
+        "label": "What activities at Harvard College interest you? List in order of preference.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1088549",
+        "label": "For a sport, please indicate intended level of participation.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/116/3151/9541": [
+      {
+        "id": "1206524",
+        "label": "How have you learned about Harvard? List in order of influence. (Responses to this question are used to evaluate our recruitment efforts; Harvard does not consider demonstrated interest when reviewing applications.)",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1380975",
+        "label": "Would you like to opt-in to receiving texts from the Harvard College Office of Admissions and Financial Aid related to your application?",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1206522",
+        "label": "Have you previously applied to Harvard? *",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/116/3151/9542": [
+      {
+        "id": "1364224",
+        "label": "Have you ever been found responsible for a disciplinary violation at any educational institution you have attended from the 9th grade (or the international equivalent) forward, whether related to academic misconduct or behavioral misconduct, that resulted in a disciplinary action?Please be aware that the existence of a disciplinary violation will not automatically disqualify anyone from admission. As with all information provided in the application, we will consider your response in the context of our whole person review. We are primarily interested in learning the details of the incident from your perspective.*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1364228",
+        "label": "Have you ever been convicted of, or pled guilty or no contest to, any felony or misdemeanor, other than:- An arrest or other detention that did not result in a conviction, or in which a conviction was vacated;- A first conviction for any of the following misdemeanors: drunkenness, simple assault, speeding, minor traffic violations, affray or disturbance of the peace; or- Any misdemeanor conviction that occurred more than five years before your application for admission, unless you were also sentenced to imprisonment, or were convicted of any additional offense within the five year period.Note that you are not required to answer “yes” to this question, or provide an explanation, if the criminal adjudication or conviction has been expunged, sealed, annulled, pardoned, destroyed, erased, impounded, or otherwise ordered by a court to be kept confidential.*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1197391",
+        "label": "Please list the cities, states and countries where you have lived, with years of residence. Please list each location on a separate line with dates following (e.g., City, State, Country, mm/yyyy - mm/yyyy).",
+        "options": [],
+        "required": false,
+        "type": "short_answer"
+      },
+      {
+        "id": "1227623",
+        "label": "Please list additional location and date if applicable.",
+        "options": [],
+        "required": false,
+        "type": "short_answer"
+      },
+      {
+        "id": "1227624",
+        "label": "Please list additional location and date if applicable.",
+        "options": [],
+        "required": false,
+        "type": "short_answer"
+      },
+      {
+        "id": "1227625",
+        "label": "Please list additional location and date if applicable.",
+        "options": [],
+        "required": false,
+        "type": "short_answer"
+      },
+      {
+        "id": "1227626",
+        "label": "Please list additional location and date if applicable.",
+        "options": [],
+        "required": false,
+        "type": "short_answer"
+      },
+      {
+        "id": "1227627",
+        "label": "Please list additional location and date if applicable.",
+        "options": [],
+        "required": false,
+        "type": "short_answer"
+      },
+      {
+        "id": "1227628",
+        "label": "Please list additional location and date if applicable.",
+        "options": [],
+        "required": false,
+        "type": "short_answer"
+      },
+      {
+        "id": "1227629",
+        "label": "Please list additional location and date if applicable.",
+        "options": [],
+        "required": false,
+        "type": "short_answer"
+      },
+      {
+        "id": "1227630",
+        "label": "Please list additional location and date if applicable.",
+        "options": [],
+        "required": false,
+        "type": "short_answer"
+      },
+      {
+        "id": "1227631",
+        "label": "Please list additional location and date if applicable.",
+        "options": [],
+        "required": false,
+        "type": "short_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/116/about": [],
+    "https://apply.commonapp.org/mycolleges/116/recassign": [],
+    "https://apply.commonapp.org/mycolleges/116/submitapp": []
+  },
+  "130": {
+    "https://apply.commonapp.org/mycolleges/130/3508/10866": [
+      {
+        "id": "1119203",
+        "label": "Preferred start term*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1200306",
+        "label": "Johns Hopkins University offers additional fee waivers. If the application fee presents a financial hardship, please select \"JHU Fee Waiver\" from the drop down and then submit information regarding your circumstances via this form: Fee Waiver Request Form. Please select a fee waiver if applicable. *",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1200342",
+        "label": "Did the former Beneficial Corporation employ either of your parents prior to June 1998?",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1119205",
+        "label": "Domestic ApplicantsHopkins is need-blind for domestic applicants (U.S. citizen, permanent resident, eligible noncitizen, or have DACA or undocumented status), meaning your financial circumstances will not factor into the admissions decision. Please indicate “yes” below if you intend to apply for financial aid and submit both the FAFSA and CSS Profile. International ApplicantsHopkins is need-aware for international citizens (who do not hold U.S. citizenship or permanent resident status), meaning that financial circumstances are considered in the admissions process. Hopkins meets 100% of demonstrated need for all admitted students, including international students. All international applicants must submit the International Student Certification of Finances (COF) accessed through your applicant portal. If you are an international student and think you will need financial aid throughout your four years at Hopkins, you must indicate “yes” to the question below and submit the COF and CSS Profile. International students who do not apply for financial aid as a first-year applicant cannot apply for financial aid after admissions decisions are released or at any later time while enrolled at Hopkins. Do you intend to apply for need-based financial aid? *",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1408698",
+        "label": "Do you have US military experience or affiliation? *",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/130/3508/10867": [
+      {
+        "id": "1119210",
+        "label": "Please indicate your first choice major that you intend to pursue at Hopkins.Note: The Moral and Political Economy major requires an additional application at the end of the student's first year. *",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1119211",
+        "label": "Please indicate a second choice major that you intend to pursue at Hopkins. Please be aware that if you've indicated Biomedical Engineering (BME) as your first choice major, you may be admitted to your secondary major choice without acceptance to the BME major.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1119213",
+        "label": "Have you attended a school for the last three years where English is the primary language of instruction?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1119214",
+        "label": "Please indicate any programs sponsored by the Johns Hopkins Center for Talented Youth (CTY) or the Johns Hopkins Office of Summer and Intersession Programs you've attended. This information is for data purposes only and will not affect the admissions decision.*",
+        "options": [],
+        "required": true,
+        "type": "multi_select_dropdown"
+      },
+      {
+        "id": "1260680",
+        "label": "Direct Matriculation Programs (DMP) If you already know what you want to study and are excited to keep learning in that field, we encourage you to apply to one of our Direct Matriculation Programs. If accepted, you’ll be admitted to both an undergraduate program at Hopkins and a master’s program at one of our graduate schools. An additional short essay is required to complete your application to a DMP. You will receive a follow-up communication with the essay prompt after your application has been processed. Students may only apply to one DMP. Direct Matriculation Program: Master’s in International Relations The DMP: Master’s in International Relations allows qualified students displaying a strong interest in international studies to pursue a combined bachelor’s/master’s degree with the Johns Hopkins School of Advanced International Studies (SAIS) in Washington, DC. Are you planning to apply to the DMP: Master’s in International Relations?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1286787",
+        "label": "Direct Matriculation Program: Master’s in Global Health Studies? The DMP: Master’s in Global Health Studies allows qualified students displaying a strong interest in global health issues to pursue a combined bachelor’s/master’s degree with the Johns Hopkins Bloomberg School of Public Health.Are you planning to apply to the DMP: Master’s in Global Health Studies?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1200334",
+        "label": "The Peabody Double Degree program is a unique opportunity to be a full-time degree seeker at the Peabody Institute and the Homewood schools of Johns Hopkins University. Students who are advanced in both performing arts and academics can simultaneously pursue a Bachelor of Music or Bachelor of Fine Arts degree from Peabody and either a Bachelor of Arts or Bachelor of Science degree from the Homewood schools. This is traditionally a five-year program and requires applications to both institutions as well as an audition at Peabody. Are you planning to apply to the Double Degree program in dance or music from the Peabody Institute?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1408692",
+        "label": "Are you currently home-schooled?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": false,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1408703",
+        "label": "Have you attended more than one school for grades 9-12?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/130/3508/10868": [
+      {
+        "id": "1119215",
+        "label": "In addition to more than 400 student-run clubs and organizations, Hopkins offers many opportunities to connect with other students, and explore your interests. Which communities or activities at Hopkins could you see yourself joining as a student? List in order of interest.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1243447",
+        "label": "If you wish to submit your résumé, you may upload it here.",
+        "options": [],
+        "required": false,
+        "type": "upload"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/130/3508/10869": [
+      {
+        "id": "1384215",
+        "label": "How have you learned about Johns Hopkins University? List in order of influence",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1243450",
+        "label": "If you wish to be contacted via mobile phone, please provide your phone number. Contact methods may include phone calls generated from an automated telephone dialing system or text messaging.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1119221",
+        "label": "Have you previously applied to Johns Hopkins University?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1367375",
+        "label": "Would you like us to use your preferred name on official admissions communications, including decision-related communications and letters mailed to your home?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/130/3508/10870": [
+      {
+        "id": "1119223",
+        "label": "Are any siblings also applying for undergraduate admission to Johns Hopkins University this year?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1119245",
+        "label": "Have any relatives ever attended Johns Hopkins University?This information is for data purposes only and will not be viewed by the admissions counselors or affect the admissions decision.*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1119323",
+        "label": "Have any relatives ever worked for Johns Hopkins University?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1286794",
+        "label": "Do you identify yourself a first generation college student?We define students as “first generation” if neither parent graduated with a bachelor's degree from a four-year college. This information will be used to communicate relevant information about events and programs.*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/130/3509/10871": [
+      {
+        "id": "1119391",
+        "label": "Over the past 150 years, every monumental discovery at Hopkins has started with a first step: The first draft by a Pulitzer Prize-winning author. A prototype that led to a life-changing medical invention. The first pitch that launched a new startup venture. As we commemorate the university's sesquicentennial—150 years since its founding—we continue to celebrate first steps just as much as final achievements. Tell us about an important first in your life—big or small—that has shaped you. (350 word limit)*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/130/about": [],
+    "https://apply.commonapp.org/mycolleges/130/recassign": [],
+    "https://apply.commonapp.org/mycolleges/130/submitapp": [],
+    "https://apply.commonapp.org/mycolleges/130/submitws": []
+  },
+  "184": {
+    "https://apply.commonapp.org/mycolleges/184/3389/10453": [
+      {
+        "id": "1109242",
+        "label": "Entry term*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1194673",
+        "label": "Do you intend to use one of these school-specific fee waivers?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1109245",
+        "label": "Do you intend to pursue need-based financial aid?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1349823",
+        "label": "Do you want us to consider SAT or ACT scores in our review of your application? *",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/184/3389/10454": [
+      {
+        "id": "1109250",
+        "label": "To which Northwestern school(s) are you applying?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/184/3389/10455": [
+      {
+        "id": "1109258",
+        "label": "We are interested in learning how you've connected with or explored Northwestern, either in-person, digitally/online or both. How have you connected with us?",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1109256",
+        "label": "Have you previously applied to Northwestern University?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1381654",
+        "label": "I consent to receive text messages from Northwestern University via the mobile phone number provided in my Common Application Profile.*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/184/3389/10456": [
+      {
+        "id": "1109289",
+        "label": "Are any siblings also applying for undergraduate admission to Northwestern University this year?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1109311",
+        "label": "Do you have any other relatives who are attending or have attended Northwestern University?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1228968",
+        "label": "Do you have a parent/step-parent or guardian currently employed by Northwestern University?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1367724",
+        "label": "Would you like to share educational information about any of your siblings?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/184/3389/16356": [
+      {
+        "id": "1393492",
+        "label": "Please select the optional questions you intend to answer",
+        "options": [],
+        "required": false,
+        "type": "multi_select_dropdown"
+      },
+      {
+        "id": "1393487",
+        "label": "We want to be sure we’re considering your application in the context of your personal experiences: What aspects of your background (your identity, your school setting, your community, your household, etc.) have most shaped how you see yourself engaging in Northwestern’s community, be it academically, extracurricularly, culturally, politically, socially, or otherwise? (fewer than 300 words)*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/184/3389/19896": [
+      {
+        "id": "1322976",
+        "label": "If you wish to submit your resume, you may upload it here.",
+        "options": [],
+        "required": false,
+        "type": "upload"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/184/about": [],
+    "https://apply.commonapp.org/mycolleges/184/recassign": [],
+    "https://apply.commonapp.org/mycolleges/184/submitapp": []
+  },
+  "199": {
+    "https://apply.commonapp.org/mycolleges/199/3240/22906": [
+      {
+        "id": "1370181",
+        "label": "Parent, Step-Parents or GuardiansWe are asking some of these questions again because further context for each applicant is important to us.Please answer the following questions consistently with the order and names in which you listed your parents, step-parents or guardians in the Family section of the Common App (e.g., Parent 1 in the Family section = Parent 1 below).How many parents, step-parents or guardians did you list on the Family section of the Common App?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1370213",
+        "label": "SiblingsHow many siblings did you list on the Family section of the Common App?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1385157",
+        "label": "Additional Family InformationDo you have other relatives (Aunt, Uncle, Cousin or Grandparent) who are attending or have attended Princeton University? Please select the number of relatives.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1385231",
+        "label": "Have any other relatives (Aunt, Uncle, Cousin or Grandparent) ever worked at Princeton University? Please select the number of relatives.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/199/3240/23426": [
+      {
+        "id": "1326084",
+        "label": "Princeton requires you to submit a graded written paper as part of your application. You may submit this material now or any time before the application deadline. If you choose not to upload the required paper at this time, you may mail, e-mail, or upload your paper through the applicant portal. Detailed instructions for our graded paper requirement can be found here.Do you wish to submit a graded written paper at this time?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1188555",
+        "label": "Your VoicePrinceton values community and encourages students, faculty, staff and leadership to engage in respectful conversations that can expand their perspectives and challenge their ideas and beliefs. As a prospective member of this community, reflect on how your lived experiences will impact the conversations you will have in the classroom, the dining hall or other campus spaces. What lessons have you learned in life thus far? What will your classmates learn from you? In short, how has your lived experience shaped you? (500 words or fewer)*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1123470",
+        "label": "Princeton has a longstanding commitment to understanding our responsibility to society through service and civic engagement. How does your own story intersect with these ideals? (250 words or fewer)*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1123471",
+        "label": "More About YouPlease respond to each question in 50 words or fewer. There are no right or wrong answers. Be yourself!What is a new skill you would like to learn in college?*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1123472",
+        "label": "What brings you joy? *",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1123473",
+        "label": "What song represents the soundtrack of your life at this moment?*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1123482",
+        "label": "Additional Information (Optional)Please attach a document if you wish to provide details of circumstances or qualifications not reflected in the application.",
+        "options": [],
+        "required": false,
+        "type": "upload"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/199/3240/23473": [],
+    "https://apply.commonapp.org/mycolleges/199/3240/9876": [
+      {
+        "id": "1097260",
+        "label": "Preferred start term *",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1369824",
+        "label": "Please indicate which name you would like us to use for print and email communication from Princeton's Office of Admission.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1097262",
+        "label": "Do you intend to use one of these school-specific fee waivers?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1385482",
+        "label": "Do you intend to submit supplementary arts materials to be considered as part of the admission process to Princeton? Please consult Princeton's online optional arts form to see what genres our faculty is able to review and what materials you can submit.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1097263",
+        "label": "Do you intend to pursue need-based financial aid?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1369822",
+        "label": "Have you ever been found responsible for a disciplinary violation at any educational institution you have attended from the 9th grade (or the international equivalent) forward, whether related to academic misconduct or behavioral misconduct, that resulted in a disciplinary action? These actions could include, but are not limited to: probation, suspension, removal, dismissal, or expulsion from the institution.*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1336359",
+        "label": "We ask about conviction history to ensure that we collect information important to assessing the composition of our teaching and learning community. We invite you to disclose honestly and completely the relevant information about prior misdemeanor or felony convictions, and to describe in as much detail as you’d like the ways in which this experience has had an impact on your life.Regardless of your conviction history, we urge you to complete your application. A prior conviction does NOT disqualify an applicant for consideration for admission to Princeton. In fact, information about an applicant's conviction history will not be available to the readers the first time an application is reviewed in our process. Covering this box will ensure that the initial reading of any applicant’s file will not discriminate on the basis of their conviction history. When the file is discussed subsequently, the information will be shared, but will be considered in the context of the first, non-prejudicial review of the application.Princeton believes knowing an applicant’s prior conviction history is relevant as we invite students to participate in our campus community. We also believe that past mistakes often happen in contexts that deserve and require explanation and amplification. We strongly urge you to tell us your story and to explain how your experience has affected your life, as you complete and submit your application for admission to Princeton.Have you ever been adjudicated guilty or convicted of a misdemeanor and/or felony?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1326079",
+        "label": "Alumni interviews are optional and not a required part of the application process. Please see the undergraduate admission website for more information about alumni interviews.Check one:*",
+        "options": [
+          "I would like to share my contact information and high school name with Princeton alumni interviewers, for the purpose of contacting me to arrange an alumni interview.",
+          "I do not want my contact information to be shared, and understand that I will not be contacted for an alumni interview."
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/199/3240/9877": [
+      {
+        "id": "1097265",
+        "label": "Which degree would you most likely pursue at Princeton? Your choice is not binding in any way: *",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1097266",
+        "label": "In which program of study do you think you would like to major at Princeton? Your choice is not binding in any way:*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1097268",
+        "label": "In addition to the major you noted above, please indicate which minor or certificate program might interest you:*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1097267",
+        "label": "In which second program of study do you think you would like to major at Princeton? Your choice is not binding in any way:*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1097269",
+        "label": "In addition to the major you noted above, please indicate which second choice minor or certificate program might interest you:*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1351853",
+        "label": "Princeton allows students to apply for admission with or without SAT or ACT scores. Students who do not submit standardized test scores will not be at a disadvantage in the admission process.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/199/3240/9878": [
+      {
+        "id": "1097270",
+        "label": "Have you previously applied to Princeton University?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/199/about": [],
+    "https://apply.commonapp.org/mycolleges/199/recassign": [],
+    "https://apply.commonapp.org/mycolleges/199/submitapp": []
+  },
+  "211": {
+    "https://apply.commonapp.org/mycolleges/211/2171/13776": [
+      {
+        "id": "1186121",
+        "label": "Preferred start term*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1186123",
+        "label": "Have you been offered a fee waiver from Rice University?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1186124",
+        "label": "Do you intend to apply for need-based financial aid?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1381437",
+        "label": "Have you been recognized by any of the following College Board Recognition Programs?- National First Generation Recognition Program- National Rural and Small Town Recognition Program- National School Recognition Program",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": false,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1381438",
+        "label": "Do you identify as LGBTQIA?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": false,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/211/2171/13777": [
+      {
+        "id": "1325461",
+        "label": "Select your second and third areas of interest, including non-majors and areas outside the school to which you are applying. Subjects followed by an asterisk (*) are not majors at Rice, but courses in these disciplines are offered. Click here for a comprehensive list organized by academic school.Which is your second choice?",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1325463",
+        "label": "Which is your third choice?",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1400093",
+        "label": "Do you want your SAT/ACT scores considered by the Admission Committee?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1310361",
+        "label": "Have you received two years of full-time instruction in English during secondary school? *",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/211/2171/13778": [
+      {
+        "id": "1186134",
+        "label": "List all contacts you have had with Rice.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1186132",
+        "label": "Have you previously applied to Rice University for an entry term other than Fall 2026?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1351229",
+        "label": "Do you wish to be contacted via mobile phone? Contact methods may include phone calls generated from an automated telephone dialing system or text messaging.",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": false,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/211/2171/13779": [
+      {
+        "id": "1365885",
+        "label": "Birth country/region/territory*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1365883",
+        "label": "Birth country/region/territory*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1310116",
+        "label": "Each year, Rice University offers a merit scholarship to an employee dependent of Marathon Oil or one of its subsidiaries. If you think you might be eligible, please provide parent or guardian information below:",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1365874",
+        "label": "Is Parent/Guardian 1 living?*",
+        "options": [
+          "Yes",
+          "No",
+          "I have limited information about this parent/guardian"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1365875",
+        "label": "Is Parent/Guardian 2 living?*",
+        "options": [
+          "Yes",
+          "No",
+          "I have limited information about this parent/guardian"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1361913",
+        "label": "Based on the parent/guardian information you listed in the Family section of the Common App, do you have any parents or guardians who live in a known address different than your own?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1365919",
+        "label": "Do you have any siblings that currently attend or have attended college?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1309802",
+        "label": "Are any siblings also applying for undergraduate admission to Rice University this year?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1309824",
+        "label": "Have any relatives ever attended Rice University in a degree-seeking program?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1309902",
+        "label": "Have any relatives ever worked for Rice University as a benefits-eligible employee?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1381662",
+        "label": "Have any parents or step-parents ever worked for Austin College or Trinity University as a benefits-eligible employee?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/211/2171/18046": [
+      {
+        "id": "1366001",
+        "label": "Birth country/region/territory *",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1287455",
+        "label": "Which option best describes your United States citizenship status at the time of submitting this application?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1361797",
+        "label": "Religious preference",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/211/2171/21834": [
+      {
+        "id": "1381443",
+        "label": "Are you currently serving or have you previously served in the U.S. Armed Forces?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1381444",
+        "label": "Will you be applying for the Naval ROTC scholarship?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1381445",
+        "label": "Will you be applying for the Air Force ROTC scholarship?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1361894",
+        "label": "Have you ever been found responsible for a disciplinary violation at any educational institution you have attended from the 9th grade (or the international equivalent) forward, whether related to academic misconduct or behavioral misconduct, that resulted in a disciplinary action? These actions could include, but are not limited to: probation, suspension, removal, dismissal, or expulsion from the institution.*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1361806",
+        "label": "Have you ever been adjudicated guilty or convicted of a misdemeanor or felony? Note that you are not required to answer \"yes\" to this question, or provide an explanation, if the criminal adjudication or conviction has been expunged, sealed, annulled, pardoned, destroyed, erased, impounded, or otherwise required by law or ordered by a court to be kept confidential.*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/211/4310/13785": [
+      {
+        "id": "1251733",
+        "label": "The Rice Box: In keeping with Rice’s long-standing tradition, please share an image of something that appeals to you.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1381449",
+        "label": "If you would like to upload a resume, you may do so now or at a later time.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1186511",
+        "label": "By typing my name in the space provided, I certify that I will, if admitted, abide by and support the Honor System at Rice University.*",
+        "options": [],
+        "required": true,
+        "type": "short_answer"
+      },
+      {
+        "id": "1186503",
+        "label": "Please explain why you wish to study in the academic areas you selected above.*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1186504",
+        "label": "Based upon your exploration of Rice University, what elements of the Rice experience appeal to you?*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/211/about": [],
+    "https://apply.commonapp.org/mycolleges/211/recassign": [],
+    "https://apply.commonapp.org/mycolleges/211/submitapp": [],
+    "https://apply.commonapp.org/mycolleges/211/submitws": []
+  },
+  "277": {
+    "https://apply.commonapp.org/mycolleges/277/2326/14650": [
+      {
+        "id": "1244109",
+        "label": "Resume uploads are not required and are completely optional. If you wish to submit your resume, you may upload it here.",
+        "options": [],
+        "required": false,
+        "type": "upload"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/277/2326/16181": [
+      {
+        "id": "1244107",
+        "label": "Are you interested in the Reserve Officers Training Corp.?",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/277/2326/22893": [
+      {
+        "id": "1384259",
+        "label": "Vanderbilt University’s motto, Crescere aude, is Latin for “dare to grow.” In your response, reflect on how one or more aspects of your identity, culture, or background has played a role in your personal growth, and how it will contribute to our campus community as you dare to grow at Vanderbilt.Please provide your response in approximately 250 words.*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/277/2326/6358": [
+      {
+        "id": "1022266",
+        "label": "Preferred start term*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1022269",
+        "label": "Separate from need-based financial aid, which of the following merit scholarships are you interested in pursuing to help fund your education at Vanderbilt University? (Select all that apply.)*",
+        "options": [],
+        "required": true,
+        "type": "multi_select_dropdown"
+      },
+      {
+        "id": "1022268",
+        "label": "Do you intend to pursue need-based financial aid?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1367921",
+        "label": "The Office of Undergraduate Admissions at Vanderbilt may send text messages to applicants.*",
+        "options": [
+          "I opt into text messaging. I understand that normal text messaging rates may apply.",
+          "I do not opt into text messaging. I understand that I will receive application communications by email."
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/277/2326/6359": [
+      {
+        "id": "1350078",
+        "label": "For the Fall 2026 entry term, Vanderbilt will be test optional. Will you submit ACT or SAT score results to be considered in the evaluation of your application?Note: If you choose to apply without submitting ACT or SAT scores, you will not be disadvantaged in the application review process. If you choose to submit ACT or SAT scores, these scores will be considered in the application review process. Please see this statement for additional information.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1022274",
+        "label": "First Choice School*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/277/2326/6360": [
+      {
+        "id": "1022279",
+        "label": "Have you previously applied to Vanderbilt University?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/277/2326/6361": [
+      {
+        "id": "1022281",
+        "label": "Are any siblings applying for undergraduate admission to Vanderbilt University this year?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1022304",
+        "label": "Have any relatives, other than those listed on the Common Application, ever attended Vanderbilt University? If yes, please list them below.*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1361436",
+        "label": "Have any relatives ever worked for Vanderbilt University ? *",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/277/about": [],
+    "https://apply.commonapp.org/mycolleges/277/recassign": [],
+    "https://apply.commonapp.org/mycolleges/277/submitapp": []
+  },
+  "287": {
+    "https://apply.commonapp.org/mycolleges/287/2491/15765": [
+      {
+        "id": "1236377",
+        "label": "OPTIONAL - If you wish to submit your résumé, you may upload it here.",
+        "options": [],
+        "required": false,
+        "type": "upload"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/287/2491/15766": [
+      {
+        "id": "1236378",
+        "label": "Have you previously applied to WashU?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/287/2491/7025": [
+      {
+        "id": "1034907",
+        "label": "Preferred start term*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1034910",
+        "label": "Do you intend to apply for Need-Based Financial Aid?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1034909",
+        "label": "Are you eligible for a WashU fee waiver?Select \"Yes\" if you are applying for financial aid, received an email from the admissions office offering you a WashU fee waiver, attended an eligible academic program, and/or you are a U.S. military veteran.*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1034911",
+        "label": "Do you intend to submit a portfolio?A portfolio is required for applicants to the College of Art and encouraged for applicants to the College of Architecture. Only first-year applicants who submit a digital portfolio will be considered for the Conway/Proetz Scholarships in Art or the Fitzgibbon Scholarships in Architecture.*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1349017",
+        "label": "Are you submitting standardized test scores or are you electing to use the standardized testing waiver?*",
+        "options": [
+          "I am submitting standardized test scores (SAT and/or ACT).",
+          "I am electing to use the standardized testing waiver."
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1335904",
+        "label": "May we send text messages about important updates and events to the mobile number(s) provided?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/287/2491/7026": [
+      {
+        "id": "1034916",
+        "label": "Academic School: See the Application Guidelines for each school.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1034919",
+        "label": "Pre-Professional Interest (if any):",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/287/2491/7027": [
+      {
+        "id": "1034951",
+        "label": "Do you have any parents, legal guardians, or siblings who are attending or have ever attended WashU?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1034928",
+        "label": "Are any siblings or other members of your household also applying for undergraduate admission to WashU this year?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1398771",
+        "label": "Do you have any siblings that currently attend or have attended college somewhere other than WashU?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1035029",
+        "label": "Do you have any parents, legal guardians, or siblings currently employed by WashU?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/287/5358/23086": [
+      {
+        "id": "1360386",
+        "label": "Please tell us what you are interested in studying at college and why.Undecided about your academic interest(s)? Don’t worry—tell us what excites you about the academic division you selected. Remember that all of our first-year students enter officially “undeclared” and work closely with their team of academic advisors to discover their academic passions. You can explore all of our majors and programs on our website.*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/287/5358/23088": [
+      {
+        "id": "1390156",
+        "label": "Please choose one of the following:",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/287/5358/23237": [],
+    "https://apply.commonapp.org/mycolleges/287/about": [],
+    "https://apply.commonapp.org/mycolleges/287/recassign": [],
+    "https://apply.commonapp.org/mycolleges/287/submitapp": [],
+    "https://apply.commonapp.org/mycolleges/287/submitws": []
+  },
+  "308": {
+    "https://apply.commonapp.org/mycolleges/308/2611/14761": [
+      {
+        "id": "1197386",
+        "label": "Short TakesPlease respond in no more than 200 characters (approximately 35 words or fewer), to each of the following questions: 1. What inspires you?*",
+        "options": [],
+        "required": true,
+        "type": "short_answer"
+      },
+      {
+        "id": "1197388",
+        "label": "2. If you could teach any college course, write a book, or create an original piece of art of any kind, what would it be?*",
+        "options": [],
+        "required": true,
+        "type": "short_answer"
+      },
+      {
+        "id": "1197387",
+        "label": "3. Other than a family member, who is someone who has had a significant influence on you? What has been the impact of their influence? *",
+        "options": [],
+        "required": true,
+        "type": "short_answer"
+      },
+      {
+        "id": "1256222",
+        "label": "4. What is something about you that is not included anywhere else in your application?*",
+        "options": [],
+        "required": true,
+        "type": "short_answer"
+      },
+      {
+        "id": "1196598",
+        "label": "Why Yale?Reflect on how your interests, values, and/or experiences have drawn you to Yale (125 words or fewer)*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1196622",
+        "label": "Yale Essays: Please respond to one of the following prompts in 400 words or fewer. Please indicate the number of the prompt you choose. 1. Reflect on a time you discussed an issue important to you with someone holding an opposing view. Why did you find the experience meaningful?2. Reflect on your membership in a community to which you feel connected. Why is this community meaningful to you? You may define community however you like.3. Reflect on an element of your personal experience that you feel will enrich your college. How has it shaped you?*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/308/2611/22193": [
+      {
+        "id": "1311985",
+        "label": "2. B.A./M.M. Program. The five-year combined Bachelor of Arts/Master of Music degree program is designed for students with exceptional abilities in instrumental performance who are interested in a liberal arts education. It is open to all majors in Yale College. To be admitted to the program as a Yale first-year, a student must be admitted both to Yale College, and in the same academic year, to the Yale School of Music through a separate audition process. The two applications are independent of one another. For additional information, visit the Yale School of Music website here.Do you intend to apply for admission to the Yale B.A./M.M. program as a first-year?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1385607",
+        "label": "5. While an interview is not required for admission, depending on available resources it is possible that you might be offered an interview. In accordance with the Family Educational Rights and Privacy Act (FERPA), if you enroll at Yale you will have the right to read the interview summary. By checking the appropriate box, please indicate whether or not you wish to waive your right under FERPA to view this document. Waiving your right to read the summary is not a condition for receiving an interview, for admission to Yale, or for the receipt of any service or benefit from Yale.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1285112",
+        "label": "1. Are you in the process of applying for an ROTC Scholarship?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1367929",
+        "label": "3. We believe that interactions with school disciplinary processes often occur in circumstances that are vital to understanding a student’s experience and its impact on their academic and personal life. Since entering high school, have you ever been found responsible for a disciplinary violation, whether related to academic misconduct or behavioral misconduct, that resulted in probation, suspension, removal, dismissal, or expulsion from your school?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1367935",
+        "label": "4. Are there any felony or misdemeanor charges pending against you, or have you ever been convicted of, or pled guilty or no contest to, a felony or misdemeanor? You may answer “no” if your record has been expunged or sealed, if your conviction has been vacated, or if you have been pardoned.*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/308/2611/7481": [
+      {
+        "id": "1044286",
+        "label": "Preferred start term*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1401558",
+        "label": "Do you wish to submit an arts or science/engineering supplement as part of the admission process to Yale University? If so, please read the instructions at http://admissions.yale.edu/supplementary.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1385877",
+        "label": "Yale University waives the application fee for veterans of the U.S. military or those currently serving in the U.S. Armed Forces. Do you intend to use this type of fee waiver?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1044288",
+        "label": "Do you intend to pursue need-based financial aid? *",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1336364",
+        "label": "Prior to starting secondary school, have you lived for a year or more in another city?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": false,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/308/2611/7482": [
+      {
+        "id": "1044290",
+        "label": "Academic InterestsStudents at Yale have time to explore their academic interests before committing to one or more major fields of study. Many students either modify their original academic direction or change their minds entirely. As of this moment, what academic areas seem to fit your interests or goals most comfortably? Please indicate up to three.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1044291",
+        "label": "Other Academic Interests?",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1044292",
+        "label": "Other Academic Interests?",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1399504",
+        "label": "Do the scores from the test(s) you selected above appear in the testing section of your Common Application? *",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1399551",
+        "label": "If you experienced a significant challenge associated with preparing for or completing the standardized test(s) you selected, you may provide details here. (100 word limit).",
+        "options": [],
+        "required": false,
+        "type": "short_answer"
+      },
+      {
+        "id": "1200549",
+        "label": "Include scores from any additional standardized tests you wish to have considered (e.g. A-Levels, AIME, school leaving certificates). If your school makes predictions for A-Level or IB exams, note them here. Provide the name, score, and date (month and year) you completed or will complete the test.",
+        "options": [],
+        "required": false,
+        "type": "short_answer"
+      },
+      {
+        "id": "1256188",
+        "label": "Tell us about a topic or idea that excites you and is related to one or more academic areas you selected above. Why are you drawn to it? (200 words or fewer)*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/308/2611/7483": [
+      {
+        "id": "1290191",
+        "label": "Have you previously applied to Yale University?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1385523",
+        "label": "How have you learned about Yale University?",
+        "options": [],
+        "required": false,
+        "type": "multi_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/308/2611/7484": [
+      {
+        "id": "1384347",
+        "label": "Do you have a family member also applying for undergraduate admission to Yale this year?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": false,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1384345",
+        "label": "Do you have a close relationship (ex. family member, mentor) with a Yale student/graduate or current/former Yale employee (ex. faculty, staff)?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/308/about": [],
+    "https://apply.commonapp.org/mycolleges/308/recassign": [],
+    "https://apply.commonapp.org/mycolleges/308/submitapp": []
+  },
+  "327": {
+    "https://apply.commonapp.org/mycolleges/327/3900/12228": [
+      {
+        "id": "1153520",
+        "label": "Entry Term*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1361288",
+        "label": "Birth country/territory/region*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1361295",
+        "label": "Number of years you have lived in the United States*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1361297",
+        "label": "Number of years you have lived outside the United States*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1153522",
+        "label": "Stanford University offers additional fee waivers. If you meet the criteria for at least one of these waivers, your application fee will be waived automatically. Please choose the option that best describes your circumstances.*",
+        "options": [
+          "I qualify for a fee waiver because I am a member of the U.S. military.",
+          "I qualify for a fee waiver because I am a dependent of an active member of the U.S. military.",
+          "I qualify for a fee waiver because I am a QuestBridge finalist.",
+          "I do not meet any of these criteria."
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1335743",
+        "label": "Please select your citizenship status.*",
+        "options": [
+          "U.S. citizen or U.S. national",
+          "U.S. dual citizen",
+          "U.S. permanent resident (green card holder)",
+          "U.S. resident",
+          "Citizen of a non-U.S. country"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1381823",
+        "label": "Are you interested in an optional Stanford admission interview with an alumni volunteer?*",
+        "options": [
+          "Yes, I am interested in an interview. I understand that I may not be contacted for an interview due to school location or limited alumni volunteer availability. I acknowledge that my application will be complete with or without an interview.",
+          "No, I am not interested in an interview. I understand there is no penalty for declining, and my application will be complete without an interview."
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1344782",
+        "label": "Applicants with extraordinary talent in the fine or performing arts may submit an Optional Arts Portfolio.To participate, you must select “Yes” below and submit your Common Application by October 15 (Restrictive Early Action) or December 5 (Regular Decision).After Stanford has received your application, you will be able to upload your arts portfolio through your Stanford portal. The deadline to upload your portfolio is October 20 (REA) or December 10 (RD).For detailed instructions, please visit our Arts Portfolio webpage.Do you intend to submit an Arts Portfolio?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1361293",
+        "label": "City of birth*",
+        "options": [],
+        "required": true,
+        "type": "short_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/327/3900/12229": [
+      {
+        "id": "1153525",
+        "label": "What academic program at Stanford interests you the most?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1153526",
+        "label": "What is your second academic interest?",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1153527",
+        "label": "What is your third academic interest?",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/327/3900/12230": [
+      {
+        "id": "1153528",
+        "label": "Have you previously submitted a first-year or transfer application to Stanford University?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/327/3900/12231": [
+      {
+        "id": "1361306",
+        "label": "How many parents or guardians did you list on the Family section of the Common App?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1361355",
+        "label": "How many siblings did you list on the Family section of the Common App? If you listed a sibling above as having attended Stanford, and the Stanford degree is the highest degree earned, there's no need to list this sibling again.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1153530",
+        "label": "Are any siblings also applying for undergraduate admission to Stanford University this year?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1153553",
+        "label": "Have any relatives ever enrolled in an undergraduate or graduate degree program at Stanford University?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1153631",
+        "label": "Have any relatives ever been employed by Stanford University?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1361061",
+        "label": "Based on the parent/guardian information you listed in the Family section of the Common App, do you have any parents or guardians who live in a known address different than your own?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/327/3900/14662": [
+      {
+        "id": "1195834",
+        "label": "What is the most significant challenge that society faces today?*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1195835",
+        "label": "How did you spend your last two summers?*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1195839",
+        "label": "What historical moment or event do you wish you could have witnessed?*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1349874",
+        "label": "Briefly elaborate on one of your extracurricular activities, a job you hold, or responsibilities you have for your family.*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1393683",
+        "label": "List five things that are important to you.*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/327/3900/14664": [
+      {
+        "id": "1195841",
+        "label": "The Stanford community is deeply curious and driven to learn in and out of the classroom. Reflect on an idea or experience that makes you genuinely excited about learning.*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1195842",
+        "label": "Virtually all of Stanford's undergraduates live on campus. Write a note to your future roommate that reveals something about you or that will help your roommate – and us – get to know you better.*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1393681",
+        "label": "Please describe what aspects of your life experiences, interests and character would help you make a distinctive contribution as an undergraduate to Stanford University.*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/327/3900/14665": [],
+    "https://apply.commonapp.org/mycolleges/327/3900/20459": [
+      {
+        "id": "1332338",
+        "label": "Have you ever been found responsible for a disciplinary violation at any educational institution you have attended from the 9th grade (or the international equivalent) forward, whether related to academic misconduct or behavioral misconduct, that resulted in a disciplinary action? These actions could include, but are not limited to: probation, suspension, removal, dismissal, or expulsion from the institution.*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/327/about": [],
+    "https://apply.commonapp.org/mycolleges/327/recassign": [],
+    "https://apply.commonapp.org/mycolleges/327/submitapp": []
+  },
+  "350": {
+    "https://apply.commonapp.org/mycolleges/350/2820/8242": [
+      {
+        "id": "1061185",
+        "label": "Choose one of the six extended essay options below and upload a one- or two-page response. Please include the prompt at the top of the page. Past extended essay prompts can be found on our website. *",
+        "options": [
+          "In an ideal world where inter-species telepathic communication exists, which species would you choose to have a conversation with, and what would you want to learn from them? Would you ask beavers for architectural advice? Octopuses about cognition? Pigeons about navigation? Ants about governance? Make your case—both for the species and the question. – Inspired by Yvan Sugira, Class of 2029",
+          "If you could uninvent one thing, what would it be — and what would unravel as a result? – Inspired by Eitan Fischer, Class of 2027",
+          "\"Left\" can mean remaining or departed. \"Dust\" can mean to add fine particles or to remove them. \"Fast\" can mean moving quickly or fixed firmly in place. These contronyms—words that are their own antonyms—somehow hold opposing meanings in perfect tension. Explore a contronym: a role, identity, or experience in your life that has contained its own opposite. – Inspired by Kristin Yi, Class of 2029",
+          "The penny is on its way out—too small to matter, too costly to keep. But not everything small should disappear. What’s one object the world is phasing out that you think we can’t afford to lose, and why? – Ella Somaiya, Class of 2028",
+          "From Michelin Tires creating the Michelin Guide, to the audio equipment company Audio-Technica becoming one of the world’s largest manufacturers of sushi robots, brand identity can turn out to be a lot more flexible than we think. Choose an existing brand, company, or institution and propose an unexpected but strangely logical new product or service for them to launch. Why is this unlikely extension exactly what the world (or the brand) needs right now? – Inspired by Julia Nieberg, Class of 2029",
+          "Statistically speaking, ice cream doesn’t cause shark attacks, pet spending doesn’t drive the number of lawyers in California, and margarine consumption isn’t responsible for Maine’s divorce rate—at least, not according to conventional wisdom. But what if the statisticians got it wrong? Choose your favorite spurious correlation and make the case for why it might actually reveal a deeper, causative truth. – Inspired by Adam DiMascio, Class of 2025",
+          "And, as always… the classic choose your own adventure option! In the spirit of adventurous inquiry, choose one of our past prompts (or create a question of your own). Be original, creative, thought provoking. Draw on your best qualities as a writer, thinker, visionary, social critic, sage, citizen of the world, or future citizen of the University of Chicago; take a little risk, and have fun!"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1061186",
+        "label": "Please upload your response here.*",
+        "options": [],
+        "required": true,
+        "type": "upload"
+      },
+      {
+        "id": "1061183",
+        "label": "How does the University of Chicago, as you know it now, satisfy your desire for a particular kind of learning, community, and future? Please address with some specificity your own wishes and how they relate to UChicago.*",
+        "options": [],
+        "required": true,
+        "type": "upload"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/350/3231/19593": [
+      {
+        "id": "1357224",
+        "label": "Have you ever been found responsible for a disciplinary violation (or do you have pending disciplinary charges and/or actions), at any educational institution you have attended from the 9th grade (or the international equivalent) forward, whether related to academic misconduct or behavioral misconduct, that resulted in a disciplinary action? *",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1357229",
+        "label": "Have you ever pled guilty or convicted of a crime? Note that you are not required to answer “yes” to this question if the adjudication has been expunged, sealed, annulled, pardoned, or otherwise ordered by a court to be kept confidential. Criminal history information will be evaluated on a case-by-case basis and will not automatically bar your admission.*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/350/3231/9836": [
+      {
+        "id": "1095969",
+        "label": "Preferred start term*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1316225",
+        "label": "Submitting an SAT or ACT is optional and not required for admission. In addition to being test-optional, UChicago practices a “No Harm” policy for application review when considering SAT or ACT scores. Any SAT or ACT score submitted will only be used in review if it will positively affect an applicant’s chance of admission. Test scores that may negatively impact an admission decision will not be considered in review. All applicants, including domestic students, international students, and transfer students will be reviewed under this policy.Students are invited to submit scores from any English proficiency examination they believe represents their English language ability. If you feel as though mastery of the English language is already represented throughout your application, you are not required to submit formal exam scores. More information for international students may be found here: https://collegeadmissions.uchicago.edu/apply/first-year-applicants/international-applicants/english-proficiency-testing.Please share with us your plans regarding the submission or consideration of SAT or ACT scores as part of your application.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1095971",
+        "label": "UChicago does not charge an application fee to students applying for need-based financial aid or to students who attend a high school in the city of Chicago supported by UChicago Promise. Which of the following apply to you?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1348595",
+        "label": "May we text you at your mobile phone number with information related to your admission or financial aid application?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/350/3231/9837": [
+      {
+        "id": "1095974",
+        "label": "What academic disciplines at University of Chicago interest you? (First choice)*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1095976",
+        "label": "What academic disciplines at University of Chicago interest you? (Second choice)",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1095978",
+        "label": "What academic disciplines at University of Chicago interest you? (Third choice)",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/350/3231/9839": [
+      {
+        "id": "1095986",
+        "label": "Have you previously applied to University of Chicago?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/350/3231/9840": [
+      {
+        "id": "1361889",
+        "label": "Parent/Guardian 1 type:*",
+        "options": [
+          "Mother",
+          "Father",
+          "Step-mother",
+          "Step-father",
+          "Guardian",
+          "I have limited information about this parent"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1361907",
+        "label": "Parent/Guardian 2 type*",
+        "options": [
+          "Mother",
+          "Father",
+          "Step-mother",
+          "Step-father",
+          "Guardian",
+          "I have limited information about this parent"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1381348",
+        "label": "Do you have any siblings?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/350/about": [],
+    "https://apply.commonapp.org/mycolleges/350/recassign": [],
+    "https://apply.commonapp.org/mycolleges/350/submitapp": [],
+    "https://apply.commonapp.org/mycolleges/350/submitws": []
+  },
+  "353": {
+    "https://apply.commonapp.org/mycolleges/353/3209/16078": [],
+    "https://apply.commonapp.org/mycolleges/353/3209/20467": [
+      {
+        "id": "1332409",
+        "label": "Have you ever been adjudicated guilty or convicted of a misdemeanor or felony? Note that you are not required to answer \"yes\" to this question, or provide an explanation, if the criminal adjudication or conviction has been expunged, sealed, annulled, pardoned, destroyed, erased, impounded, or otherwise required by law or ordered by a court to be kept confidential.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1356293",
+        "label": "Have you ever been found responsible for a disciplinary violation at any educational institution you have attended from the 9th grade (or the international equivalent) forward, whether related to academic misconduct or behavioral misconduct, that resulted in a disciplinary action? These actions could include, but are not limited to: probation, suspension, removal, dismissal, or expulsion from the institution.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/353/3209/20997": [
+      {
+        "id": "1393640",
+        "label": "Please choose three questions from the options below. Your response to each short-answer question should be between 50-100 words. 1. How does faith influence the decisions you make?2. What is distinctive about your personal experiences and development (eg, family support, culture, disability, personal background, community)? Why are these experiences important to you and how will you enrich the Notre Dame community?3. Notre Dame’s undergraduate experience is characterized by a collective sense of care for every person. How do you foster service to others in your community?4. What compliment are you most proud of receiving, and why does it mean so much to you?5. What would you fight for? *",
+        "options": [],
+        "required": true,
+        "type": "multi_select_dropdown"
+      },
+      {
+        "id": "1393652",
+        "label": "Please provide a response to the following question. The word count is a maximum of 150 words. Everyone has different priorities when considering their higher education options and building their college or university list. Tell us about your “non-negotiable” factor(s) when searching for your future college home.*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/353/3209/9755": [
+      {
+        "id": "1093681",
+        "label": "Preferred start term*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1390700",
+        "label": "Birth Sex*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1356047",
+        "label": "Religious preference",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1229440",
+        "label": "If different than above, in what religious tradition were you raised?",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1356051",
+        "label": "The University of Notre Dame offers a Common App fee waiver to applicants who have served in the U.S. Armed Forces. If you meet the criteria, please choose the option that best describes your circumstances.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1390709",
+        "label": "Have any of your parents or guardians completed a four-year college degree, regardless of whether it was completed within or outside of the US?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1392143",
+        "label": "Do you intend to pursue need-based financial aid?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1356054",
+        "label": "Have you applied or do you plan to apply for an ROTC (Reserve Officers' Training Corps) scholarship?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": false,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/353/3209/9756": [
+      {
+        "id": "1093684",
+        "label": "In which College or School at Notre Dame do you intend to study? *",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1391852",
+        "label": "If you wish to share a second academic interest, please select the College or School.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1391854",
+        "label": "If you wish to share a third academic interest, please select the College or School.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1093683",
+        "label": "If you intend to pursue a first or second major in the Department of Art, Department of Design, or the School of Architecture, applicants are welcome to submit optional talent samples via a SlideRoom arts portfolio. Additionally, the Department of Music invites any applicant regardless of intended major to submit talent samples via SlideRoom. Talent samples should be submitted by November 15 for Restrictive Early Action or by January 15 for Regular Decision.Do you intend to submit a SlideRoom arts portfolio?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1348914",
+        "label": "Notre Dame is test-optional for the 2025-2026 application year. Do you want your standardized test scores (SAT/ACT) considered in the admission selection process?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1335470",
+        "label": "Have you received or will you receive a secondary school diploma/leaving certificate outside of the US?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1397879",
+        "label": "Briefly share what draws you to the area(s) of study you listed.*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/353/3209/9757": [
+      {
+        "id": "1093686",
+        "label": "What activities at the University of Notre Dame interest you? List in order of preference.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/353/3209/9758": [
+      {
+        "id": "1241945",
+        "label": "How have you learned about the University of Notre Dame? List in order of influence.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1396435",
+        "label": "Do you consent to receive required financial aid notices and disclosures from the University of Notre Dame electronically?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1241956",
+        "label": "If you consent to be contacted via mobile phone, please provide your phone number. Contact methods may include text messaging.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1093692",
+        "label": "Have you previously applied to the University of Notre Dame?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/353/3209/9759": [
+      {
+        "id": "1093705",
+        "label": "Are any of your siblings also applying for undergraduate admission to the University of Notre Dame this year?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1093727",
+        "label": "Have any of your relatives ever attended the University of Notre Dame?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1093805",
+        "label": "Have any of your relatives ever worked for the University of Notre Dame?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/353/about": [],
+    "https://apply.commonapp.org/mycolleges/353/recassign": [],
+    "https://apply.commonapp.org/mycolleges/353/submitapp": []
+  },
+  "369": {
+    "https://apply.commonapp.org/mycolleges/369/2340/16007": [
+      {
+        "id": "1308348",
+        "label": "Some applicants maintain an online presence that showcases their background, talents, or creativity. If you maintain such a site, please feel free to enter the URL here:",
+        "options": [],
+        "required": false,
+        "type": "short_answer"
+      },
+      {
+        "id": "1241156",
+        "label": "If you wish to submit your resume, you may upload it here.",
+        "options": [],
+        "required": false,
+        "type": "upload"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/369/2340/20780": [
+      {
+        "id": "1337768",
+        "label": "Are you in the process of applying for an ROTC Scholarship?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1337769",
+        "label": "Brown offers ROTC options hosted at partner institutions Providence College (Army), the Worcester Polytechnic Institute (Air Force), and the College of the Holy Cross (Naval, with Marine option). Are you interested in participating in ROTC at Brown?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1023261",
+        "label": "If you are accomplished in music or visual art, do you intend to submit a portfolio to be considered as part of the admission process?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1369779",
+        "label": "Are any of your siblings also applying to Brown University as a first-year or transfer applicant this year?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1368504",
+        "label": "If you have siblings who have completed or are currently completing post-secondary education, please specify the number of siblings and fill in the required information below.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1365381",
+        "label": "Have any of your parents or guardians completed a four-year college degree or equivalent? This degree may have been completed in the US or another country.*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1365384",
+        "label": "Have you ever been found responsible for a disciplinary violation at any educational institution you have attended from the 9th grade (or the international equivalent) forward, whether related to academic misconduct or behavioral misconduct, that resulted in a disciplinary action?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1337435",
+        "label": "Have you ever been convicted of a crime or agreed to a court-accepted plea (e.g. guilty plea, nolo contendere, Alford plea)? This question does not apply to routine traffic violations. We do not consider information on criminal history during our initial round of admission application reviews. Only upon selecting a pool of admitted candidates do we learn whether you have reported a criminal history, at which point we will offer you an opportunity to explain the circumstances. With this approach, information on misdemeanor or felony convictions can inform, but not determine, admission decisions. It ensures that applicants are evaluated based on their academic profile, extracurricular pursuits and potential fit - not criminal history - and enables us to continue to review this potentially important information. Ultimately, our goal is to make an informed decision about what is best for you and best for Brown. *",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1392614",
+        "label": "Parent or Legal Guardian 1 Full Name*",
+        "options": [],
+        "required": true,
+        "type": "short_answer"
+      },
+      {
+        "id": "1392615",
+        "label": "Parent or Legal Guardian 1 Country of Birth*",
+        "options": [],
+        "required": true,
+        "type": "short_answer"
+      },
+      {
+        "id": "1392617",
+        "label": "Parent or Legal Guardian 1 Occupation and Job Title (most recent former occupation, if retired or deceased)*",
+        "options": [],
+        "required": true,
+        "type": "short_answer"
+      },
+      {
+        "id": "1392618",
+        "label": "Parent or Legal Guardian 1 Current Employer (most recent former employer, if retired or deceased)*",
+        "options": [],
+        "required": true,
+        "type": "short_answer"
+      },
+      {
+        "id": "1392621",
+        "label": "Parent or Legal Guardian 2 Full Name*",
+        "options": [],
+        "required": true,
+        "type": "short_answer"
+      },
+      {
+        "id": "1392623",
+        "label": "Parent or Legal Guardian 2 Country of Birth*",
+        "options": [],
+        "required": true,
+        "type": "short_answer"
+      },
+      {
+        "id": "1392627",
+        "label": "Parent or Legal Guardian 2 Occupation and Job Title (most recent former occupation, if retired or deceased)*",
+        "options": [],
+        "required": true,
+        "type": "short_answer"
+      },
+      {
+        "id": "1392628",
+        "label": "Parent or Legal Guardian 2 Current Employer (most recent former employer, if retired or deceased)*",
+        "options": [],
+        "required": true,
+        "type": "short_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/369/2340/6405": [
+      {
+        "id": "1023258",
+        "label": "Start Term*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1195679",
+        "label": "Do you intend to use either the Brown Specific or QuestBridge fee waiver?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1023307",
+        "label": "For the purpose of securely identifying yourself, should you need to contact our office or the Office of Computing Account and Passwords, please indicate one of the security questions and provide an answer.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1023260",
+        "label": "Do you intend to apply for need-based financial aid from Brown?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1023308",
+        "label": "Security Question Answer*",
+        "options": [],
+        "required": true,
+        "type": "short_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/369/2340/6406": [
+      {
+        "id": "1023267",
+        "label": "Concentration Interest (First Choice)*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1023270",
+        "label": "Concentration Interest (Second Choice)*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1023305",
+        "label": "If you intend to apply to the Program in Liberal Medical Education or the Brown RISD Dual Degree Program, please indicate your interest by selecting the program here.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1400644",
+        "label": "Some schools offer students the opportunity to take national exams in areas such as math and language. These exams include, but are not limited to, AIME, AMC 10, AMC 12, Le Grand Concours, National Spanish Exam, National Latin Exam. Have you taken any of these exams (or any other subject-based national or international examinations)? If applicable, please include proficiency level for language exams.",
+        "options": [
+          "No",
+          "Yes"
+        ],
+        "required": false,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/369/2340/6407": [
+      {
+        "id": "1023274",
+        "label": "We would like to know how you found out about Brown! Please identify the option(s) from the list provided that were the most influential in your decision to apply.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1241158",
+        "label": "If you wish to be contacted via mobile phone, please provide your phone number. Contact methods may include phone calls generated from an automated telephone dialing system or text messaging. *",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1023272",
+        "label": "Have you previously applied to Brown University for undergraduate admission?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/369/3418/10549": [
+      {
+        "id": "1369068",
+        "label": "Brown's Open Curriculum allows students to explore broadly while also diving deeply into their academic pursuits. Tell us about any academic interests that excite you, and how you might pursue them at Brown. (250 word limit)*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1368324",
+        "label": "Students entering Brown often find that making their home on College Hill naturally invites reflection on where they came from. Share how an aspect of your growing up has inspired or challenged you, and what unique contributions this might allow you to make to the Brown community. (250 word limit)*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1368325",
+        "label": "Brown students care deeply about their work and the world around them. Students find contentment, satisfaction, and meaning in daily interactions and major discoveries. Whether big or small, mundane or spectacular, tell us about something that brings you joy. (250 word limit)*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1392638",
+        "label": "What three words best describe you? (3 word limit)*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1392640",
+        "label": "If you could teach a class on any one thing, whether academic or otherwise, what would it be? (100 word limit)*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1392641",
+        "label": "In one sentence, why Brown? (50 word limit)*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      }
+    ]
+  },
+  "439": {
+    "https://apply.commonapp.org/mycolleges/439/3705/13059": [
+      {
+        "id": "1167768",
+        "label": "Preferred start term*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1167770",
+        "label": "Preferred residence during your first year*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1167956",
+        "label": "Do you intend to use one of these college-specific fee waivers? Please note fee waivers are granted to U.S. Citizens and Permanent Residents only.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1167958",
+        "label": "Please estimate your family's gross income for 2025",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1167959",
+        "label": "How many people depend on your family's income?",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1357193",
+        "label": "Have you ever been found responsible for a disciplinary violation at any educational institution you have attended from the 9th grade (or the international equivalent) forward, whether related to academic misconduct or behavioral misconduct, that resulted in a disciplinary action? These actions could include, but are not limited to: probation, suspension, removal, dismissal, or expulsion from the institution.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1332854",
+        "label": "Have you ever been adjudicated guilty of a felony as an adult, or adjudicated responsible for any offense as a juvenile, involving violent or assaultive behavior, weapon possession, property destruction or sexually-related offenses? (Note: You may answer “no” to this question if the adjudication was withheld, or has been expunged, sealed, annulled, pardoned, destroyed, erased, impounded, or otherwise required by law or order of a court to be kept confidential.) *",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1332860",
+        "label": "Is any felony charge involving violent or assaultive behavior, weapon possession, property destruction or sexually-related offenses pending against you? *",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1332862",
+        "label": "Is any allegation of academic or disciplinary misconduct at any secondary school, college or university currently pending against you? *",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1167771",
+        "label": "Do you intend to pursue need-based financial aid?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1167961",
+        "label": "Scholarship Authorization - I authorize the release of my academic, demographic, and financial information on file with the University to alumni clubs and other organizations that may consider me for scholarships. *",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1167960",
+        "label": "Are you now or have you ever been in foster care?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": false,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1366281",
+        "label": "Do you want us to consider your SAT or ACT scores in our review of your application?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/439/3705/13060": [
+      {
+        "id": "1167772",
+        "label": "U-M College or School to which you are applying *",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/439/3705/13061": [
+      {
+        "id": "1167782",
+        "label": "How have you learned about University of Michigan (Ann Arbor campus only)? List in order of influence.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1347192",
+        "label": "Please provide your mobile phone number if you wish to be periodically contacted via text message on your mobile device.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1167780",
+        "label": "Have you previously applied to University of Michigan (Ann Arbor campus only)?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/439/3705/13062": [
+      {
+        "id": "1167813",
+        "label": "Are any siblings also applying for undergraduate admission to University of Michigan this year?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1167835",
+        "label": "Have any relatives ever attended University of Michigan?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1167913",
+        "label": "Have any relatives ever worked for University of Michigan?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1368000",
+        "label": "Based on the parent/guardian information you listed in the Family section of the Common App, do you have any parents or guardians who live in a known address different than your own?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/439/3705/13063": [
+      {
+        "id": "1167962",
+        "label": "If you believe you qualify for in-state tuition and any of the following circumstances apply, you are required to file an Application for In-State Tuition and be approved before your status can be changed to in-state:• You currently live outside of Michigan (for any purpose, including but not limited to education, volunteer activities, travel, employment, etc.) • You have attended a high school or college outside of Michigan• You have been employed or domiciled outside of Michigan in the last 3 years• You are not a U.S. citizen or Permanent Resident Alien• Your spouse, partner or parent is in Michigan as a nonresident student, medical resident, fellow or for military assignment or other temp employment• You are 24 years of age or younger and a parent lives outside of Michigan• You previously attended any U-M campus (Ann Arbor, Dearborn, or Flint) as a nonresidentFor information regarding in-state tuition eligibility requirements and application deadlines please visit the website. Please review the Guidelines for Qualifying for In-State Tuition carefully before responding to the next question.Are you a Michigan resident?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/439/3705/14845": [
+      {
+        "id": "1199106",
+        "label": "Essay #1 (Required for all applicants.)At the University of Michigan, we are focused on developing leaders and citizens who will challenge the present and enrich the future. In your essay, share with us how you are prepared to contribute to these goals. This could include the people, places, experiences or aspirations that have shaped your journey and future plans.*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1199107",
+        "label": "Essay #2 (Required for all applicants.) Describe the unique qualities that attract you to the specific undergraduate College or School (including preferred admission and dual degree programs) to which you are applying at the University of Michigan. How would that curriculum support your interests?*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/439/about": [],
+    "https://apply.commonapp.org/mycolleges/439/recassign": [],
+    "https://apply.commonapp.org/mycolleges/439/submitapp": []
+  },
+  "445": {
+    "https://apply.commonapp.org/mycolleges/445/2639/13116": [
+      {
+        "id": "1169265",
+        "label": "Preferred start term*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1169266",
+        "label": "Preferred admission plan*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1169267",
+        "label": "Columbia provides a fee waiver for students who applied for the Engineering Preview at Columbia (EPC) or the Columbia STARS Fly-In, QuestBridge finalists and students who meet eligibility guidelines for a fee waiver. Do you qualify for one of these fee waivers?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1311261",
+        "label": "Are you eligible for and/or enrolled in the Federal Free and Reduced Lunch Program (FRLP)?",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1169268",
+        "label": "Columbia’s approach to affordability is simple. Need-based. Full need. No loans. We are committed to making Columbia’s opportunities affordable for all students.Financial aid at Columbia is need-based; there are no academic, athletic or talent-based institutional scholarships. Instead, we evaluate each family’s ability to pay based on the information provided to us in the financial aid application. And then we cover 100% of the financial need for all first-years, for all four years of study. Do you intend to pursue need-based financial aid?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1391715",
+        "label": "Are you enrolled in a U.S. federally recognized tribe?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/445/2639/13118": [
+      {
+        "id": "1169280",
+        "label": "What activities at Columbia University interest you? List in order of preference.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/445/2639/13119": [
+      {
+        "id": "1169288",
+        "label": "How have you learned about Columbia University? List in order of influence.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1237102",
+        "label": "If you wish to be contacted via mobile phone, please provide your phone number. Contact methods may include phone calls generated from an automated telephone dialing system or text messaging.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1169286",
+        "label": "Have you previously applied to Columbia University as an undergraduate student?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/445/2639/13120": [
+      {
+        "id": "1287548",
+        "label": "Additional Family InformationThank you for completing the Family section of the Common App. Please answer the questions below to provide us with additional context about your family.How many people are supported within your household including yourself (e.g., parents, guardians, siblings)?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1382287",
+        "label": "How many parents or guardians did you list on the Family section of the Common App?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1382417",
+        "label": "How many siblings did you list in the Family Section of the Common App?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1381472",
+        "label": "Based on the parent/guardian information you listed in the Family section of the Common App, do you have any parents or guardians who live in a known address different than your own?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1283560",
+        "label": "Are any siblings also applying for undergraduate admission to Columbia University this year?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1283582",
+        "label": "Have any relatives ever attended Columbia University?*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1283660",
+        "label": "Have any relatives ever worked for Columbia University? *",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/445/2639/20592": [
+      {
+        "id": "1351079",
+        "label": "Columbia is test-optional for applicants to Columbia College or Columbia Engineering.The holistic and contextual application review process for Columbia College and Columbia Engineering is rooted in the belief that students are dynamic, multi-faceted individuals who cannot be defined by any single factor. Our review is purposeful and nuanced—respecting varied backgrounds, voices and experiences—in order to best determine an applicant's suitability for admission and ability to thrive in our curriculum and our community, and to advance access to our educational opportunities.Students who choose not to submit test scores will not be at a disadvantage.Are you submitting ACT or SAT scores as part of your Columbia application? IMPORTANT NOTE: If you submit \"yes\" as your answer, your response cannot be changed. Please visit this link for additional information on how to answer this question.*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1169269",
+        "label": "Do you intend to submit a portfolio so that your creative talent in one or more fields will be considered as part of the admission process to Columbia University?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1290944",
+        "label": "Have you applied or do you intend to apply for ROTC scholarships? If yes, please indicate the program(s) below.Please note that Columbia hosts the Navy program; the other ROTC programs have cross-town affiliations housed at nearby institutions.",
+        "options": [],
+        "required": false,
+        "type": "multi_select_dropdown"
+      },
+      {
+        "id": "1368630",
+        "label": "Members of the Columbia academic community adhere to the Student Conduct and Community Standards and an honor code, pledging to value the integrity of their ideas and the ideas of others. It is important for us to understand your relationship with this cornerstone to our academic community. Have you been found responsible for any academic misconduct during high/secondary school, including cheating, plagiarism, unauthorized assistance, misuse of technology or other academic dishonesty? Please note that admitted students will be asked to verify their continued good standing within their school and community upon enrollment.*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1368625",
+        "label": "As a member of the Columbia University community, every student is expected to uphold the highest standards of respect, integrity, and civility. These core values are key components of the Columbia University experience, helping us to maintain a safe and healthy educational and residential environment for all. Have you been found responsible for behavioral misconduct involving threats of or actual physical or emotional harm to others during or after high/secondary school, including bias, hazing or harassment? Have you been found responsible for code of conduct violations which have impacted your status of good standing within your school? Please note that admitted students will be asked to verify their continued good standing within their school and community upon enrollment.*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1334169",
+        "label": "Have you ever been adjudicated guilty or convicted of a misdemeanor or felony? Note that you are not required to answer \"yes\" to this question, or provide an explanation, if the criminal adjudication or conviction has been expunged, sealed, annulled, pardoned, destroyed, erased, impounded, or otherwise required by law or ordered by a court to be kept confidential.*",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/445/2639/20717": [
+      {
+        "id": "1169275",
+        "label": "Are you applying to Columbia College or Columbia Engineering?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1351080",
+        "label": "Optional: You may use the space below to list any additional results or predicted scores from academic examinations you have taken or plan to take. These exams may include International Baccalaureate, A Levels, school leaving exams/certificates, AIME, AMC 10, national exams or other results you would like for us to consider. Many students will not have additional information to share. If this is the case, the space below should be left blank.",
+        "options": [],
+        "required": false,
+        "type": "long_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/445/2639/23738": [],
+    "https://apply.commonapp.org/mycolleges/445/4221/13121": [
+      {
+        "id": "1324027",
+        "label": "Research Supplement (Optional)Before completing this section, kindly review our instructions on supplementary materials. Links to research that you have included in any section of the Common Application (e.g., Dropbox, Google Drive, websites, etc.) will not be reviewed. Have you completed research with a faculty member, adviser or mentor in an academic discipline such as science, engineering, humanities, social science, languages or other academic interests?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": false,
+        "type": "single_select_radio"
+      },
+      {
+        "id": "1169467",
+        "label": "List a selection of texts, resources and outlets that have contributed to your intellectual development outside of academic courses, including but not limited to books, journals, websites, podcasts, essays, plays, presentations, videos, museums and other content that you enjoy. (100 words or fewer)*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1350053",
+        "label": "Tell us about an aspect of your life so far or your lived experience that is important to you, and describe how it has shaped the way you would learn from and contribute to Columbia's multidimensional and collaborative environment. (150 words or fewer)*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1406134",
+        "label": "At Columbia, students representing a wide range of perspectives are invited to live and learn together. In such a community, questions and debates naturally arise. Please describe a time when you did not agree with someone and discuss how you engaged with them and what you took away from the interaction. (150 words or fewer) *",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1383381",
+        "label": "In college/university, students are often challenged in ways that they could not anticipate. Please describe a situation in which you have navigated through adversity and discuss how you changed as a result. (150 words or fewer)*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      },
+      {
+        "id": "1169470",
+        "label": "Why are you interested in attending Columbia University? We encourage you to consider the aspect(s) that you find unique and compelling about Columbia. (150 words or fewer)*",
+        "options": [],
+        "required": true,
+        "type": "long_answer"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/445/about": [],
+    "https://apply.commonapp.org/mycolleges/445/recassign": [],
+    "https://apply.commonapp.org/mycolleges/445/submitapp": [],
+    "https://apply.commonapp.org/mycolleges/445/submitws": []
+  },
+  "1321": {
+    "https://apply.commonapp.org/mycolleges/1321/5721/23026": [
+      {
+        "id": "1386934",
+        "label": "Preferred start term*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1397507",
+        "label": "What is your expected residency status?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/1321/5721/23646": [
+      {
+        "id": "1397416",
+        "label": "What is your expected enrollment status?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1402405",
+        "label": "\"What is your Planned Course of Study (e.g. major)?*",
+        "options": [],
+        "required": true,
+        "type": "single_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/1321/5721/23650": [
+      {
+        "id": "1397486",
+        "label": "If you wish to be contacted via mobile phone, please provide your phone number. Contact methods may include phone calls generated from an automated telephone dialing system or text messaging.",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      },
+      {
+        "id": "1397484",
+        "label": "Have you previously applied to Cheyney University of Pennsylvania?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": false,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/1321/5721/23651": [
+      {
+        "id": "1397490",
+        "label": "Do you believe you may qualify for in-state tuition? *",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": true,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/1321/5721/23652": [
+      {
+        "id": "1397491",
+        "label": "Do you have any relatives who are attending or have attended Cheyney University of Pennsylvania?",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "required": false,
+        "type": "single_select_radio"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/1321/5721/23653": [
+      {
+        "id": "1397501",
+        "label": "What activities at Cheyney University of Pennsylvania interest you? List in order of preference",
+        "options": [],
+        "required": false,
+        "type": "single_select_dropdown"
+      }
+    ],
+    "https://apply.commonapp.org/mycolleges/1321/about": [],
+    "https://apply.commonapp.org/mycolleges/1321/recassign": [],
+    "https://apply.commonapp.org/mycolleges/1321/submitapp": []
+  }
+}
